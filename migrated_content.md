@@ -307,7 +307,7 @@ attendees. Hopefully, we will not see any exposed luncheon meat or
 seaweed when we onboard CDNs. ;-)
 
 Download the presentation here
-<https://www.owasp.org/images/a/aa/OWASP_SG_Oct_2018_Lessions_from_Protecting_a_Major_Conference_What_You_Do_Not_Know_Will_Haunt_You.pdf>
+</www-pdf-archive/OWASP_SG_Oct_2018_Lessions_from_Protecting_a_Major_Conference_What_You_Do_Not_Know_Will_Haunt_You.pdf>
 
 Speaker: Onn Chee
 
@@ -356,7 +356,7 @@ Many thanks to JP Morgan and Thomas for agreeing to be our venue sponsor
 in such short notice.
 
 You can download the presentation slides from
-<https://www.owasp.org/images/7/76/OWASP-SG-Sep-2018-Meetup.pdf.pdf>
+</www-pdf-archive/OWASP-SG-Sep-2018-Meetup.pdf.pdf>
 
 #### Jul 2018 Meetup: IoT Security Research
 
@@ -1745,4 +1745,4 @@ S(159835) (http://www.jcu.edu.sg/ContactUs_Location.htm)
 
 Topic : Intro to WebScarab by Rogan and Burp proxy suite by Rick.
 
-[Category:Singapore](Category:Singapore "wikilink")
+[Category:Singapore](Category:Singapore )
