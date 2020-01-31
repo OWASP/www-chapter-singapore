@@ -50,7 +50,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 ### February 2020 Meetup:  Securing your APIs: OWASP API Top 10 2019, Real-life Case Studies and Demo
 
-**Date**: 23 February 2020 730pm to 900pm
+**Date**: 20 February 2020 730pm to 900pm
 
 **Venue**: UOB office, 396 Alexandra Road 18F, Singapore 119954 
 
