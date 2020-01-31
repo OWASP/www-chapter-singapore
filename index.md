@@ -51,6 +51,44 @@ member?](https://myowasp.force.com/MemberAppRegion)
 
 # Upcoming Meetup
 
+### February 2020 Meetup:  Securing your APIs: OWASP API Top 10 2019, Real-life Case Studies and Demo
+
+**Date**: 23 February 2020 730pm to 900pm
+
+**Venue**: UOB office, 396 Alexandra Road 18F, Singapore 119954 
+
+Application programming interfaces (APIs) are a key element of technology modernization and transformation at many enterprises. With APIs ability to link systems and data, APIs play a crucial role in making the technology landscape more responsive and adaptable. However, API Security is often a secondary thought. A coherent API security needs to be adopted. The OWASP API Top 10 is a good starting point. In this meetup session, both theory and real life case studies will be presented. A demo will also be presented.
+
+**Speaker**: Nathan Aw
+
+Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Financial Services Industry (FSI). With a dedicated focus on the Customer Journey Experience (CJX) Layer, he designs, build and scale secure experience APIs, Microservices on a Hybrid Cloud/Multi-Cloud (Cloud-Native) platforms that enables a truly delightful, end-to-end CJX. More on Nathan Aw can be found at https://sg.linkedin.com/in/awnathan
+
+Many thanks to UOB for sponsoring food and drinks\!
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+# Past Meetups
+
+### 2020
+
+### January 2019 Meetup: Current state of DevOps Security
+
+**Date**: 13 January 2019 730pm to 900pm
+
+**Venue**: Trend Micro office, 6 Temasek Boulevard #16-01 to 05 Suntec Tower Four · Singapore 038986
+
+DevOps security is tough, come listen to how NTUC is tackling application security through the secure pipeline and environment controls for application development and deployment. Ian will cover the what and how and also share some limitations in today’s tools to keep up with development changes.
+
+**Speaker**: Ian Loe
+
+Ian Loe is the current SVP of cybersecurity at NTUC Enterprise Co-operative Limited and an adjunct fellow at the Singapore University of Technology & Design (SUTD). He had been active in DevOps security and application security especially in containers and serverless applications.
+
+Many thanks to Trend Micro for sponsoring the venue!
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+### 2019
+
 ### November 2019 Meetup: Basic Pentesting on Ethereum Blockchain
 
 **Date**: 14 November 2019 730pm to 900pm
@@ -76,10 +114,6 @@ impact.
 Many thanks to F5 for sponsoring food and drinks\!
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-# Past Meetups
-
-### 2019
 
 #### September 2019 Meetup: Introduction to CVSSv3.1 - Minor Release
 
