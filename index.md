@@ -39,15 +39,12 @@ to present on.
 
 ## Sponsorship/Membership
 
-https://wiki.owasp.org/index.php/File:Btn_donate_SM.gif
 [Donate](https://www.regonline.com/builder/site/Default.aspx?EventID=1044369)
 to this chapter or become a local chapter supporter.
 
 Or consider the value of Individual, Corporate, or Academic Supporter
-membership. [Ready to become a
-member?](https://myowasp.force.com/MemberAppRegion)
-![Join_Now_BlueIcon.JPG](Join_Now_BlueIcon.JPG
-"Join_Now_BlueIcon.JPG")
+membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegion)
+
 
 # Upcoming Meetup
 
