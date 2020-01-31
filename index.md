@@ -39,7 +39,7 @@ to present on.
 
 ## Sponsorship/Membership
 
-![<File:Btn_donate_SM.gif>](Btn_donate_SM.gif "File:Btn_donate_SM.gif")
+https://wiki.owasp.org/index.php/File:Btn_donate_SM.gif
 [Donate](https://www.regonline.com/builder/site/Default.aspx?EventID=1044369)
 to this chapter or become a local chapter supporter.
 
