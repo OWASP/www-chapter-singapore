@@ -5,7 +5,7 @@ title: OWASP Singapore
 tags: example-tag
 level: 0
 
-region: Asia/Pacific
+region: Asia
 
 
 ---
