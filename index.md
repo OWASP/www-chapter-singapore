@@ -48,19 +48,17 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
-### February 2020 Meetup:  Securing your APIs: OWASP API Top 10 2019, Real-life Case Studies and Demo
+### June 2020 Online Meetup: How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo
 
-**Date**: 20 February 2020 730pm to 900pm
+**Date**: 24 June 2020 800pm to 930pm
 
-**Venue**: UOB office, 396 Alexandra Road 18F, Singapore 119954 
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/271270966/
 
 Application programming interfaces (APIs) are a key element of technology modernization and transformation at many enterprises. With APIs ability to link systems and data, APIs play a crucial role in making the technology landscape more responsive and adaptable. However, API Security is often a secondary thought. A coherent API security needs to be adopted. The OWASP API Top 10 is a good starting point. In this meetup session, both theory and real life case studies will be presented. A demo will also be presented.
 
 **Speaker**: Nathan Aw
 
 Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Financial Services Industry (FSI). With a dedicated focus on the Customer Journey Experience (CJX) Layer, he designs, build and scale secure experience APIs, Microservices on a Hybrid Cloud/Multi-Cloud (Cloud-Native) platforms that enables a truly delightful, end-to-end CJX. More on Nathan Aw can be found at https://sg.linkedin.com/in/awnathan
-
-Many thanks to UOB for sponsoring food and drinks\!
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
