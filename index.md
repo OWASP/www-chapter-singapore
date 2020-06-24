@@ -62,7 +62,7 @@ Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Fin
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
-Preso can be downloaded from [here].(https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf).
 
 # Past Meetups
 
@@ -337,7 +337,7 @@ shared and appropriate suitable controls will be shared with the
 attendees. Hopefully, we will not see any exposed luncheon meat or
 seaweed when we onboard CDNs. ;-)
 
-Download the presentation [here].(https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_Oct_2018_Lessions_from_Protecting_a_Major_Conference_What_You_Do_Not_Know_Will_Haunt_You.pdf>
+Download the presentation [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_Oct_2018_Lessions_from_Protecting_a_Major_Conference_What_You_Do_Not_Know_Will_Haunt_You.pdf).
 
 Speaker: Onn Chee
 
