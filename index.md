@@ -62,7 +62,7 @@ Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Fin
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
-Preso can downloaded at from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
+Preso can downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf)
 
 # Past Meetups
 
