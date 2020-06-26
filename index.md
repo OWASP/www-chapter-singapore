@@ -48,6 +48,25 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
+### July 2020 Online Meetup: Microservices Security, Container Runtime Security and MITRE ATT&CK® for Kubernetes (K8S)
+
+**Date**: 15 July 2020 800pm to 930pm
+
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/271544329
+
+APIs are the gate to your microservices. In the last meetup, we discussed and learned how to secure our APIs with OWASP API 2019 as a reference. In the upcoming session, we will take a look at how to secure our microservices, from Container Runtime Security to Kubernetes (K8S). We will also look at MITRE ATT&CK® for Kubernetes.
+
+**Speaker**: Nathan Aw
+
+Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Financial Services Industry (FSI). With a dedicated focus on the Customer Journey Experience (CJX) Layer, he designs, build and scale secure experience APIs, Microservices on a Hybrid Cloud/Multi-Cloud (Cloud-Native) platforms that enables a truly delightful, end-to-end CJX. More on Nathan Aw can be found at https://sg.linkedin.com/in/awnathan
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+
+# Past Meetups
+
+### 2020
+
 ### June 2020 Online Meetup: How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo
 
 **Date**: 24 June 2020 800pm to 930pm
@@ -64,13 +83,9 @@ Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
 Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_your_APIs_-_OWASP_API_Top_10_2019,_Real-life_Case.pdf).
 
-# Past Meetups
+### January 2020 Meetup: Current state of DevOps Security
 
-### 2020
-
-### January 2019 Meetup: Current state of DevOps Security
-
-**Date**: 13 January 2019 730pm to 900pm
+**Date**: 13 January 2020 730pm to 900pm
 
 **Venue**: Trend Micro office, 6 Temasek Boulevard #16-01 to 05 Suntec Tower Four · Singapore 038986
 
