@@ -48,7 +48,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
-### July 2020 Online Meetup: Microservices Security, Container Runtime Security and MITRE ATT&CK® for Kubernetes (K8S)
+### July 2020 Online Meetup: Microservices Security, Container Runtime Security, MITRE ATT&CK® for Kubernetes (K8S) and Service Mesh for Security
 
 **Date**: 15 July 2020 800pm to 930pm
 
