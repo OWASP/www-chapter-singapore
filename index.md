@@ -62,6 +62,7 @@ Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Fin
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf).
 
 # Past Meetups
 
