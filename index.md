@@ -48,6 +48,41 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
+### August 2020 Online Meetup: DevSecBots: Bot the Gap
+
+**Date**: 26 August 2020 800pm to 930pm
+
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/272160770
+
+Cybersecurity has become a major priority for organizations looking to protect themselves against the massive cost of data breaches — but there’s an international problem hindering that goal.
+
+There are 2.93 million cybersecurity positions open and unfilled around the world, according to non-profit IT security organization (ISC)².
+
+Without trained security staff, organizations don’t have the capability to deploy the right controls or develop security processes to detect and prevent cyberattacks, an expert explains.
+
+But does this mean that you will be secured then?
+
+The Answer unfortunately is NO. Attackers attack weak spots in the organisation and the user remains the easiest target.
+
+So do we send the user for more training, do we engaged more security professionals, do we implement more controls, do we implement more security software? Are there any other Strategies?
+
+Andy brings to the table the idea of “Bot-ing” the gaps and how Bots have helped organisations bridge the gaps
+
+**Speaker**: Andy Huang
+
+Andy Huang is a Cybersecurity practitioner with more than 20 years of experience, He has global experience having worked in Australia, Israel, United States, and Europe. He last worked in Intelligence for Interpol in Brussels before returning to Singapore where he founded SecureArk.
+
+Andy is concurrently holding Advisory roles with EC-Council (Global Advisory Board Member), TUViT (Advisory Member), and The Cyber Market Hub (Ambassador)
+
+Andy has a Masters of Science in Electrical and Computer Engineering (Cryptography) and holds multiple patents in Random Number Generators. Andy is a BS7799 Lead Auditor and a Certified Identity Theft Risk Management Specialist since 1999.
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+
+# Past Meetups
+
+### 2020
+
 ### July 2020 Online Meetup: Microservices Security, Container Runtime Security, MITRE ATT&CK® for Kubernetes (K8S) and Service Mesh for Security
 
 **Date**: 15 July 2020 800pm to 930pm
@@ -63,10 +98,6 @@ Nathan Aw is a hands-on, AppDevSec digital solution architect working in the Fin
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
 Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Microservices%20Security%2C%20Container%20Runtime%20Security%2C%20MITRE%20ATT%26CK%C2%AE%20%20for%20Kubernetes%20(K8S)%20and%20Service%20Mesh%20for%20Security.pdf).
-
-# Past Meetups
-
-### 2020
 
 ### June 2020 Online Meetup: How Secure are you APIs? Securing your APIs: OWASP API Top 10 2019, Case Study and Demo
 
