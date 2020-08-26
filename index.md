@@ -66,7 +66,9 @@ The Answer unfortunately is NO. Attackers attack weak spots in the organisation 
 
 So do we send the user for more training, do we engaged more security professionals, do we implement more controls, do we implement more security software? Are there any other Strategies?
 
-Andy brings to the table the idea of “Bot-ing” the gaps and how Bots have helped organisations bridge the gaps
+Andy brings to the table the idea of “Bot-ing” the gaps and how Bots have helped organisations bridge the gaps.
+
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/26_Aug_2020_OWASP_SG_Chapter_Evening_DevSecBot.pdf).
 
 **Speaker**: Andy Huang
 
