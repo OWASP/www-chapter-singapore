@@ -68,8 +68,6 @@ So do we send the user for more training, do we engaged more security profession
 
 Andy brings to the table the idea of “Bot-ing” the gaps and how Bots have helped organisations bridge the gaps.
 
-Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/26_Aug_2020_OWASP_SG_Chapter_Evening_DevSecBot.pdf).
-
 **Speaker**: Andy Huang
 
 Andy Huang is a Cybersecurity practitioner with more than 20 years of experience, He has global experience having worked in Australia, Israel, United States, and Europe. He last worked in Intelligence for Interpol in Brussels before returning to Singapore where he founded SecureArk.
@@ -79,6 +77,8 @@ Andy is concurrently holding Advisory roles with EC-Council (Global Advisory Boa
 Andy has a Masters of Science in Electrical and Computer Engineering (Cryptography) and holds multiple patents in Random Number Generators. Andy is a BS7799 Lead Auditor and a Certified Identity Theft Risk Management Specialist since 1999.
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/26_Aug_2020_OWASP_SG_Chapter_Evening_DevSecBot.pdf).
 
 
 # Past Meetups
