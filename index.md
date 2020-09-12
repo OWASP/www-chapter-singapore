@@ -88,8 +88,8 @@ In Cyber Security “analytics” is an evolving area, security analytics has th
 
 Manas is currently the Head of Group Security Operation Center Engineering Team under Group Information Security (GIS) in UOB. He has over 17 years of experience in designing and operationalizing large scale high impact enterprise Infrastructure and Systems Integration using new and advanced technologies (on-premises, hybrid or SaaS).
 
-• A practitioner for building Next-Generation Advanced Analytics platform and solution in Cyber Security.
-• Experienced Big Data solution Architect and practicing ML and AI deployment pipeline for Cyber Security custom models for advanced analytics.
+A practitioner for building Next-Generation Advanced Analytics platform and solution in Cyber Security.
+Experienced Big Data solution Architect and practicing ML and AI deployment pipeline for Cyber Security custom models for advanced analytics.
 • Experienced in leading multiple Insider Threat Program, Security Data Lake Projects and Cyber Security Advanced Analytics Projects.
 • Immense experience in designing complex architecture framework, delivering high performance, highly resilient enterprise infrastructure solutions.
 • Complex problem solving skills, especially in crisis situations.
