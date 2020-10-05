@@ -1,6 +1,7 @@
-<!--### Chapter Information
-* Chapter Region
+### Chapter Information
+
 
 ### Social Links
-* [Meetup](#)
-* [Social Link](#)-->
+* [Meetup](https://www.meetup.com/singapore-owasp-meetup-group/)
+
+* [Social Link](#)
