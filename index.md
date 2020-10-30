@@ -48,6 +48,63 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
+### November 2020 Online Meetup: A pentester's guide to Kubernetes Security
+
+**Date**: 11 November 2020 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/273202471/
+
+Pentesters often find it hard to understand Kubenetes Security and attacks possible against Kubernetes clusters. One of the reasons for this, is the complex nature of Kubernetes clusters and the amount of components involved in these clusters. One must understand Kubernetes fundamentals to be able to assess the security of it. This talk provides an overview of Kubernetes Security from a pentester's view point. We will discuss various Kubernetes foundational concepts that can be helpful in understanding various potential entry points and misconfigurations, which can eventually lead to a full cluster compromise.
+
+**Speaker**: Srinivasarao Kotipalli
+
+Srinivas is part of UOB's Group Information Security/Red Team and he carries 7 years of cyber security experience in pentesting Web Applications, Mobile Applications(Android & iOS) and IoT devices.
+
+His primary responsibilities include, conducting Red Team engagements and security assessments of UOB assets.
+
+He spoke at international conferences such as Defcon USA and Bsides Singapore. He authored a book titled "Hacking Android", published by Packt Publishers. He also holds the certifications - Offensive Security Certified Professional and Offensive Security Certified Expert.
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+
+
+# Past Meetups
+
+### 2020
+
+### October 2020 Online Meetup: Finding the needle in a needle stack - Next-Generation Analytics in Cyber Security Using ML & AI
+
+**Date**: 21 October 2020 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/273202440/
+
+In Cyber Security “analytics” is an evolving area, security analytics has their own challenges due to high volume of discrete data feeds and the requirement for faster detections, we have several security products which helps is finding “needle in a haystack” however attackers are already leveraging advanced machine learning techniques for sophisticated cyber-attacks and hence to detect advanced threats we need to take holistic approach by using advanced techniques and new technologies which will helped us in finding the “needle in a needlestack” which will be more actionable and tangible.
+
+**Speaker**: Manas Paikray
+
+Manas is currently the Head of Group Security Operation Center Engineering Team under Group Information Security (GIS) in UOB. He has over 17 years of experience in designing and operationalizing large scale high impact enterprise Infrastructure and Systems Integration using new and advanced technologies (on-premises, hybrid or SaaS).
+
+• A practitioner for building Next-Generation Advanced Analytics platform and solution in Cyber Security.
+
+• Experienced Big Data solution Architect and practicing ML and AI deployment pipeline for Cyber Security custom models for advanced analytics.
+
+• Experienced in leading multiple Insider Threat Program, Security Data Lake Projects and Cyber Security Advanced Analytics Projects.
+
+• Immense experience in designing complex architecture framework, delivering high performance, highly resilient enterprise infrastructure solutions.
+
+• Complex problem solving skills, especially in crisis situations.
+
+• Experience in doing pre-sales support and giving solution presentation to senior leadership and project committees for any new project initiatives and budget approval.
+
+• Experience building, leading and coaching technical teams in the area of new technologies.
+
+• A passionate technologist who is a true business partner, highly focused on customer success.
+
+• Worked in the Singapore, US, UK and India, with large enterprises (Banking and non-Banking) which includes several Fortune 100 companies.
+
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
 ### September 2020 Online Meetup: Big Data – Advanced Security Analytics
 
 **Date**: 29 September 2020 730pm to 900pm
@@ -84,65 +141,6 @@ Manas is currently the Head of Group Security Operation Center Engineering Team 
 
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-
-### October 2020 Online Meetup: Finding the needle in a needle stack - Next-Generation Analytics in Cyber Security Using ML & AI
-
-**Date**: 21 October 2020 730pm to 900pm
-
-**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/273202440/
-
-In Cyber Security “analytics” is an evolving area, security analytics has their own challenges due to high volume of discrete data feeds and the requirement for faster detections, we have several security products which helps is finding “needle in a haystack” however attackers are already leveraging advanced machine learning techniques for sophisticated cyber-attacks and hence to detect advanced threats we need to take holistic approach by using advanced techniques and new technologies which will helped us in finding the “needle in a needlestack” which will be more actionable and tangible.
-
-**Speaker**: Manas Paikray
-
-Manas is currently the Head of Group Security Operation Center Engineering Team under Group Information Security (GIS) in UOB. He has over 17 years of experience in designing and operationalizing large scale high impact enterprise Infrastructure and Systems Integration using new and advanced technologies (on-premises, hybrid or SaaS).
-
-• A practitioner for building Next-Generation Advanced Analytics platform and solution in Cyber Security.
-
-• Experienced Big Data solution Architect and practicing ML and AI deployment pipeline for Cyber Security custom models for advanced analytics.
-
-• Experienced in leading multiple Insider Threat Program, Security Data Lake Projects and Cyber Security Advanced Analytics Projects.
-
-• Immense experience in designing complex architecture framework, delivering high performance, highly resilient enterprise infrastructure solutions.
-
-• Complex problem solving skills, especially in crisis situations.
-
-• Experience in doing pre-sales support and giving solution presentation to senior leadership and project committees for any new project initiatives and budget approval.
-
-• Experience building, leading and coaching technical teams in the area of new technologies.
-
-• A passionate technologist who is a true business partner, highly focused on customer success.
-
-• Worked in the Singapore, US, UK and India, with large enterprises (Banking and non-Banking) which includes several Fortune 100 companies.
-
-
-Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-
-### November 2020 Online Meetup: A pentester's guide to Kubernetes Security
-
-**Date**: 11 November 2020 730pm to 900pm
-
-**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/273202471/
-
-Pentesters often find it hard to understand Kubenetes Security and attacks possible against Kubernetes clusters. One of the reasons for this, is the complex nature of Kubernetes clusters and the amount of components involved in these clusters. One must understand Kubernetes fundamentals to be able to assess the security of it. This talk provides an overview of Kubernetes Security from a pentester's view point. We will discuss various Kubernetes foundational concepts that can be helpful in understanding various potential entry points and misconfigurations, which can eventually lead to a full cluster compromise.
-
-**Speaker**: Srinivasarao Kotipalli
-
-Srinivas is part of UOB's Group Information Security/Red Team and he carries 7 years of cyber security experience in pentesting Web Applications, Mobile Applications(Android & iOS) and IoT devices.
-
-His primary responsibilities include, conducting Red Team engagements and security assessments of UOB assets.
-
-He spoke at international conferences such as Defcon USA and Bsides Singapore. He authored a book titled "Hacking Android", published by Packt Publishers. He also holds the certifications - Offensive Security Certified Professional and Offensive Security Certified Expert.
-
-Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-
-
-# Past Meetups
-
-### 2020
 
 ### August 2020 Online Meetup: DevSecBots: Bot the Gap
 
