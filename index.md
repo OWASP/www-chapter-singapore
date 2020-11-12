@@ -48,6 +48,12 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
+
+
+# Past Meetups
+
+### 2020
+
 ### November 2020 Online Meetup: A pentester's guide to Kubernetes Security
 
 **Date**: 11 November 2020 730pm to 900pm
@@ -66,11 +72,7 @@ He spoke at international conferences such as Defcon USA and Bsides Singapore. H
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
-
-
-# Past Meetups
-
-### 2020
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/A_pentester_guide_to_Kubernetes_Security.pdf).
 
 ### October 2020 Online Meetup: Finding the needle in a needle stack - Next-Generation Analytics in Cyber Security Using ML & AI
 
