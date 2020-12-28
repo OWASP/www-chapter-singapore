@@ -48,6 +48,35 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 # Upcoming Meetup
 
+### 2021
+
+### Jan 2021 Partner Conference: Infosec In the City, SINCON Conference
+
+**Date**: 2 - 3 January 2021
+
+**Venue**: 10am to 520pm
+
+Dear fellow OWASP SG members, 
+ 
+Singapore's homegrown techno-centric cybersecurity conference — Infosec In the City, SINCON Conference is back for the 3rd year. The SINCON 2020 Conference (https://www.infosec-city.com/sin20-con) will be taking place virtually on 2-3 Jan 2021. 
+ 
+With the conference tagline "2020 Is Cancelled, SINCON 2020 Is Not", SINCON 2020 Conference is set to be held at the beginning of 2021 with the aim to encourage the cybersecurity community to put 2020 behind us, push forward and do better for the new year.
+ 
+The conference will start off with 2 heavyweight keynote speakers — Eugene Kaspersky (CEO & Founder, Kaspersky Lab) and Alex Rice (CTO & Co-Founder, HackerOne). Followed by many "Deep Tech" and "Insights" talks, and workshops — including: 
+- Tracking BlackTech Activities: Attacks to what you trust & Blind your defense 
+- Who stole my $100,000's worth bitcoin wallets: Catch them all with new deceptive bait
+- Confirming Red Alerts: Taking Over & Compromising ICS & SCADA
+- Business OSINT & OPSEC/Privacy Crash Course 
+- Writing Wireshark Plugins for Security Analysis 
+- Automated Bug Hunting Workshop
+- Reverse Engineering Malware Workshop
+- Hunting Malicious Using DNS
+The line-up is available at https://www.infosec-city.com/sin20-con-schedule (with more to-be-announced). 
+ 
+Use discount code “friendofsincon2020” to get the Standard Ticket for FREE! Hurry and get your tickets soon (https://www.infosec-city.com/sin-tickets).
+ 
+P.S. Don't forget to spread the word and share with your friends and colleagues. 
+
 
 
 # Past Meetups
