@@ -54,7 +54,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 **Date**: 2 - 3 January 2021
 
-**Venue**: 10am to 520pm
+**Venue**: Virtual Conference
 
 Dear fellow OWASP SG members, 
  
