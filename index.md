@@ -11,8 +11,8 @@ region: Asia
 ---
 # Welcome to OWASP Singapore Chapter
 
-Welcome to the Singapore chapter homepage. The chapter leader is [Wong
-Onn Chee](mailto:ocwong@owasp.org).
+Welcome to the Singapore chapter homepage. The chapter leaders are [Wong
+Onn Chee](mailto:ocwong@owasp.org) and [Cecil Su](mailto:cecil.su@owasp.org)
 
 **[Click
 here](https://groups.google.com/a/owasp.org/forum/#!forum/singapore-chapter/join)
