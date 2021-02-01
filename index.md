@@ -52,7 +52,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 ### March 2020 Online Meetup: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
 
-**Date**: 11 November 2020 730pm to 900pm
+**Date**: 11 March 2021 730pm to 900pm
 
 **Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/276096528/
 
