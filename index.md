@@ -92,6 +92,10 @@ Grayson Hardaway is a security researcher at r2c, a startup working on static an
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
+# Past Meetups
+
+### 2021
+
 ### Jan 2021 Partner Conference: Infosec In the City, SINCON Conference
 
 **Date**: 2 - 3 January 2021
@@ -119,9 +123,6 @@ Use discount code “friendofsincon2020” to get the Standard Ticket for FREE! 
  
 P.S. Don't forget to spread the word and share with your friends and colleagues. 
 
-
-
-# Past Meetups
 
 ### 2020
 
