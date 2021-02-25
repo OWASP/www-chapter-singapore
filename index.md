@@ -50,25 +50,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 ### 2021
 
-### Frebruary 2020 Online Meetup: Deconstructing the Solarwinds Supply Chain Attack and Deterring it: Honing in on the Golden SAML Attack Technique
-
-**Date**: 24 February 2021 730pm to 900pm
-
-**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/276259206
-
-Each passing day brings new and fresh revelations about the Solarwinds attack. Supply chain attacks are not new to us yet such attacks are fiendishly difficult to defend against.
-
-With the attack's far-reaching impact, many are asking: what happened? How can I deter against such future attacks?
-
-In this meetup, we will examine the Solarwinds kill chain, the Attacker Tactics Techniques and Procedures (TTPs) and in particular explore how the Golden SAML Attack played a crucial role. Finally, we will quickly look at how we can detect post-compromise threat activity, remediation and some ways on minimising supply chain attacks.
-
-**Speaker**: Nathan Aw
-
-Working in the financial services industry (FSI), as a cloud-native, microservices and devsecops developer/architect with a particular interest in countering ever-evolving emerging threats, Nathan Aw spends his time tinkering with code and making them secure regardless of where they are deployed: on premise or multi-cloud. A firm believer and practitioner of holistic cyber risk–management paradigm, he believes that an identity-based, zer0-trust security paradigm is the only way forward in an increasingly multi-cloud, hybrid cloud environment.
-
-Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
-### March 2020 Online Meetup: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
+### March 2021 Online Meetup: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
 
 **Date**: 11 March 2021 730pm to 900pm
 
@@ -95,6 +77,26 @@ Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 # Past Meetups
 
 ### 2021
+
+### February 2021 Online Meetup: Deconstructing the Solarwinds Supply Chain Attack and Deterring it: Honing in on the Golden SAML Attack Technique
+
+**Date**: 24 February 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/276259206
+
+Each passing day brings new and fresh revelations about the Solarwinds attack. Supply chain attacks are not new to us yet such attacks are fiendishly difficult to defend against.
+
+With the attack's far-reaching impact, many are asking: what happened? How can I deter against such future attacks?
+
+In this meetup, we will examine the Solarwinds kill chain, the Attacker Tactics Techniques and Procedures (TTPs) and in particular explore how the Golden SAML Attack played a crucial role. Finally, we will quickly look at how we can detect post-compromise threat activity, remediation and some ways on minimising supply chain attacks.
+
+**Speaker**: Nathan Aw
+
+Working in the financial services industry (FSI), as a cloud-native, microservices and devsecops developer/architect with a particular interest in countering ever-evolving emerging threats, Nathan Aw spends his time tinkering with code and making them secure regardless of where they are deployed: on premise or multi-cloud. A firm believer and practitioner of holistic cyber risk–management paradigm, he believes that an identity-based, zer0-trust security paradigm is the only way forward in an increasingly multi-cloud, hybrid cloud environment.
+
+Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
+
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Deconstructing_the_Solarwinds_Supply_Chain_Attack_and_Deterring_it_Honing_in_on_the_Golden_SAML_Attack_Technique.pdf).
 
 ### Jan 2021 Partner Conference: Infosec In the City, SINCON Conference
 
