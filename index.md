@@ -25,7 +25,7 @@ Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaB
 is a professional association of global members and is open to anyone
 interested in learning more about software security. Local chapters are
 run independently and guided by the
-[Chapter_Leader_Handbook](https://www.owasp.org/index.php/Chapter_Leader_Handbook).
+[Chapter_Policy](https://owasp.org/www-policy/operational/chapters).
 As a [501(c)(3)](https://www.owasp.org/index.php/About_OWASP) non-profit
 professional association your support and sponsorship of any meeting
 venue and/or refreshments is tax-deductible. Financial contributions
