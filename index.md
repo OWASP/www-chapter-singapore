@@ -54,7 +54,7 @@ membership. [Ready to become a member?](https://myowasp.force.com/MemberAppRegio
 
 **Date**: 11 March 2021 730pm to 900pm
 
-**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/SGSecurityMG/events/276096528/
+**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/singapore-owasp-meetup-group/events/
 
 We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time.
 Historically, as an industry, we’ve focused on building tools to identify vulnerabilities. While we’ve built impressive tools, these approaches have failed to address the challenges of modern engineering teams.
@@ -72,8 +72,7 @@ Choosing what to focus your AppSec resources on
 
 Grayson Hardaway is a security researcher at r2c, a startup working on static analysis tools purpose-built for the modern workflow. At r2c, Grayson authors static analysis tailored for finding security vulnerabilities in open source code. Previously, Grayson worked for the US Department of Defense fuzzing and exploiting obscure protocols. When not submitting patches, Grayson is hefting a heavy pack uphill, crafting guitar solos, or learning something new: currently woodworking.
 
-Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
-
+Please RSVP your attendance at https://www.meetup.com/singapore-owasp-meetup-group/events/
 # Past Meetups
 
 ### 2021
