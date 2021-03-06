@@ -20,10 +20,7 @@ Welcome to the Singapore chapter homepage. The chapter leaders are [Wong Onn Che
 OWASP Foundation ([Overview
 Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaBNN8mR2XfQs8sLxcj9SCsP6c/edit?usp=sharing))
 is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are
-run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). As a [501(c)(3)](https://www.owasp.org/index.php/About_OWASP) non-profit professional association your support and sponsorship of any meeting
-venue and/or refreshments is tax-deductible. Financial contributions should only be made online using the authorized online chapter donation
-button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then
-contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
+run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
 # Upcoming Meetup
 
