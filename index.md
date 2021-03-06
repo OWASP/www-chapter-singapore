@@ -33,7 +33,7 @@ contact the local chapter leader with details of what OWASP PROJECT, independent
 
 **Date**: 11 March 2021 730pm to 900pm
 
-**Venue**: Google Meet - get the Google Meet URL from https://www.meetup.com/singapore-owasp-meetup-group/events/276096584/
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/276096584/)
 
 We’re in the middle of a significant shift in how security teams operate and prioritize their limited budget and person-time.
 Historically, as an industry, we’ve focused on building tools to identify vulnerabilities. While we’ve built impressive tools, these approaches have failed to address the challenges of modern engineering teams.
