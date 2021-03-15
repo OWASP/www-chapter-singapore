@@ -26,6 +26,12 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ### 2021
 
+Nil
+
+# Past Meetups
+
+### 2021
+
 ### March 2021 Online Meetup: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
 
 **Date**: 11 March 2021 730pm to 900pm
@@ -49,9 +55,8 @@ Choosing what to focus your AppSec resources on
 Grayson Hardaway is a security researcher at r2c, a startup working on static analysis tools purpose-built for the modern workflow. At r2c, Grayson authors static analysis tailored for finding security vulnerabilities in open source code. Previously, Grayson worked for the US Department of Defense fuzzing and exploiting obscure protocols. When not submitting patches, Grayson is hefting a heavy pack uphill, crafting guitar solos, or learning something new: currently woodworking.
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/276096584/)
-# Past Meetups
 
-### 2021
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/r2c_2021_03_11-OWASP_Singapore.pdf).
 
 ### February 2021 Online Meetup: Deconstructing the Solarwinds Supply Chain Attack and Deterring it: Honing in on the Golden SAML Attack Technique
 
