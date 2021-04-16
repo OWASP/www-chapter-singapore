@@ -32,6 +32,26 @@ Nil
 
 ### 2021
 
+### April 2021 Online Meetup: JavaScript SAST from Mayhem to Order
+
+**Date**: 28 April 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/276096584/)
+
+Software developers were always left with two hard choices, either use security tools that are not built for them, or use free/open-source tools that generate too many false positives and have poor coverage. One of the prime reasons for this dilemma is that traditionally the security workload was managed by application security teams who would find vulnerabilities and filter through false positives. Now with agile development and DevOps workflows, now there is no option for developers to opt out of secure development.
+
+New technology called DataLog solves that problem in a fundamentally different way, giving developers new hope. During this presentation we will go over:
+- how static code analysis has changed over the years
+- how DataLog technology solves some of the inherent problems of static code analysis such as speed, accuracy and coverage
+- how concepts like treating code as data, and partial evaluations are changing the game completely
+- what developers can do today to get accuracy, speed, and coverage with SAST
+
+**Speaker**: Sherif Koussa
+
+Sherif Koussa is OWASP Ottawa Chapter Co-Leader, Software Developer, Hacker, and founder and CEO of Software Secured (https://www.softwaresecured.com) and Reshift (https://www.reshiftsecurity.com). In addition to contributing to OWASP Ottawa for over 14 years, Sherif contributed to WebGoat, and OWASP Cheat Sheets. Sherif also helped the SANS and GIAC organizations launch their GSSP-Java and GSSP-NET exams and contributed to a few of their courses. After switching from software development to the field of security, Sherif took on the mission of supporting developers shift security left, and ship more secure code organically. Whether through training, penetration testing as a service or coaching development teams through shifting security, Sherif believes that any AppSec without the developer wouldn’t yield the best results. Sherif’s current venture, Reshift Security, is a static code analysis tool that is built for developers with an experience from the IDE, over to the code review and CI phases.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/277604330/)
+
 ### March 2021 Online Meetup: Scale Your Security by Embracing Secure Defaults & Eliminating Bug Classes
 
 **Date**: 11 March 2021 730pm to 900pm
