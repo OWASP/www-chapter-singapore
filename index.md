@@ -30,7 +30,7 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 **Date**: 28 April 2021 730pm to 900pm
 
-**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/276096584/)
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/277604330/)
 
 Software developers were always left with two hard choices, either use security tools that are not built for them, or use free/open-source tools that generate too many false positives and have poor coverage. One of the prime reasons for this dilemma is that traditionally the security workload was managed by application security teams who would find vulnerabilities and filter through false positives. Now with agile development and DevOps workflows, now there is no option for developers to opt out of secure development.
 
