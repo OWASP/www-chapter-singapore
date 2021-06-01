@@ -26,7 +26,24 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ### 2021
 
-Coming soon!
+### June 2021 Online Meetup: A hacker's mindset
+
+**Date**: 24 June 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278541565/)
+
+A security awareness presentation, helping you to learn looking at your applications functionality from the abuse perspective.
+
+We write software to enable information sharing and business functionality with the best intentions. Considering usability, initiative design, availability, continuity, time-to-market and all those business driven aspects of modern software development. Unfortunately, security (secure architecture, design and secure development) are hardly considered. This is no wonder, as it is not always clear for developers or business what is meant by security. How to test for security if the context is not clear?
+
+To help you design and build (more) security software in the future, this talk will guide you towards understanding how a hacker works, what is a hacker's gain? This presentation will help you to look differently at your applications functionality. To see it from a hacker's perspective!
+
+**Speaker**: Martin Knobloch
+
+Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time information security leader with more than 15 years of experience in the field. With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278541565/)
+
 
 # Past Meetups
 
