@@ -26,7 +26,7 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ### 2021
 
-### July 2021 Online Meetup: A hacker's mindset
+### July 2021 Online Meetup: API Security and the OWASP API Security Top 10
 
 **Date**: 7 July 2021 730pm to 900pm
 
