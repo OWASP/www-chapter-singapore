@@ -26,6 +26,23 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ### 2021
 
+### July 2021 Online Meetup: A hacker's mindset
+
+**Date**: 7 July 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278590609/)
+
+Today’s software-driven world is built on APIs, which are increasingly becoming the heartbeat of every modern mobile, B2B, IoT, and web application. APIs enable developers to write data-driven and flexible applications that all end-users and organizations require and desire. However, while APIs have clear and obvious benefits, they also create a rapidly-growing attack surface that isn’t widely understood and sometimes completely overlooked by developers. Recent reports suggest that by 2022, API abuses will be the most responsible vector for data breaches within enterprise web applications. Therefore, securing them is a top challenge and must be a top priority. In this talk, we will highlight the security risks presented by the naive use of APIs and why an increased level of awareness is required to mitigate the risks. Next, we will dive into the top 10 API security risks presented in the OWASP API Top 10 list. From API-specific issues like broken object-level authorization and excessive data exposure to more familiar issues like injection risks. The list rounds up the most critical API threats while also providing explanations and example attack scenarios
+
+**Speaker**: Erez Yalon
+
+Erez Yalon, Head of Security Research, oversees Checkmarx’s research team comprising analysts, pen-testers, secure developers, and bug bounty hunters. He brings vast experience to his position, and his efforts empower today’s developers and organizations to deliver more secure software, applications, and devices. Erez is the co-founder of the DEF CON AppSec Village and co-led the development of the OWASP API Security Top 10 list. Over the years, Erez has been invited to speak at prominent events, including RSA Conference, Infosecurity Europe, Black Hat, and DEF CON, while also being featured in news outlets such as Fortune, Forbes, WIRED, TechCrunch, and Dark Reading.
+
+Twitter: @ErezYalon
+LinkedIn: https://www.linkedin.com/in/erezyalon/
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278590609/)
+
 ### June 2021 Online Meetup: A hacker's mindset
 
 **Date**: 24 June 2021 730pm to 900pm
