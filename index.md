@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Singapore
 tags: example-tag
 level: 0
-
+meetup-group: singapore-owasp-meetup-group
 region: Asia
 
 
@@ -23,6 +23,12 @@ is a professional association of global members and is open to anyone interested
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
 # Upcoming Meetup
+
+We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
+
+{% include chapter_events.html group=page.meetup-group %}
+
+Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### 2021
 
