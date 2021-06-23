@@ -34,7 +34,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### July 2021 Online Meetup: API Security and the OWASP API Security Top 10
 
-**Date**: 7 July 2021 730pm to 900pm
+**Date**: 13 July 2021 730pm to 900pm
 
 **Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278590609/)
 
