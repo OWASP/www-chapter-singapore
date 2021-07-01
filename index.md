@@ -49,6 +49,10 @@ LinkedIn: https://www.linkedin.com/in/erezyalon/
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278590609/)
 
+# Past Meetups
+
+### 2021
+
 ### June 2021 Online Meetup: A hacker's mindset
 
 **Date**: 24 June 2021 730pm to 900pm
@@ -67,10 +71,8 @@ Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time informa
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/278541565/)
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Security-awareness_hacker-mindset_20210624.pdf).
 
-# Past Meetups
-
-### 2021
 
 ### April 2021 Online Meetup: JavaScript SAST from Mayhem to Order
 
