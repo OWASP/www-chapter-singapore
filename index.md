@@ -23,7 +23,7 @@ is a professional association of global members and is open to anyone interested
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
 ## OWASP Singapore is proudly celebrating OWASP's 20th Anniversary
-[![OWASP 20th Anniversary Image](assets/images/OWASP_20th_Anniversary.jpeg)](https://20thanniversary.owasp.org/)
+[![OWASP 20th Anniversary Image](assets/images/OWASP_20th_Anniversary.png)](https://20thanniversary.owasp.org/)
 To celebrate this incredible milestone, OWASP will be holding a 24- hour live virtual event with special Keynote speakers and featured talks from around the world. We are anticipating 10K+ in attendees, over 50 sponsors, 90+ speakers and over 50 countries to be represented. Come and join us!
 
 # Upcoming Meetup
