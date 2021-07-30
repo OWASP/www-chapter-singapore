@@ -34,6 +34,27 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
+### August 2021 Online Meetup: Securing Multi-cloud, Portable, N-Tier Microservices Applications: A live demo on cloud-native application security platforms (Curiefense, Snyk Code, Sysdig Falco and Aqua Security Trivy and tfsec)
+
+**Date**: 5 August 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279796090)
+
+Securing Portable, N-Tier Microservices Applications that potentially run anywhere such as on-premise K8S, or on multiple cloud (AKS, EKS, GKE, etc) can truly be a real challenge to microservices developers (yours truly!) and security folks alike.
+
+In this session, we will see how some open-source cloud-native platforms can make developers life a little easier (phew!). There will be live demo on Curiefense, an open source, Envoy-Based cloud native security platform. Envoy is an open source edge and service proxy, designed for cloud-native applications.
+
+There will also be a demo on Snyk Code and Sysdig Falco.
+
+Finally we will see how developers can integrate Aqua Security Trivy into their CI tool to scan for vulnerabilities in docker images and learn how to secure IAC with tfsec, a static analysis security scanner for Terraform.
+
+**Speaker**: Nathan Aw
+
+Nathan Aw is first and foremost a microservices developer turned AppSec architect working in an end-user environment in a financial institution. His passion is for building secure, scalable microservices that can run anywhere and scale limitlessly.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279796090)
+
+
 ### September 2021 Online Meetup: Developing secure software with OWASP tools and guides
 
 **Date**: 2 September 2021 730pm to 900pm
