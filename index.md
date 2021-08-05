@@ -72,7 +72,7 @@ Nathan Aw is first and foremost a microservices developer then turned AppSec arc
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279796090)
 
-Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf).
+Preso can be downloaded from [here](https://github.com/OWASP/www-chapter-singapore/raw/master/assets/presos/Securing_Multi_cloud_Portable_Tier_Microservices_Applications_A_live_demo_on_cloud_native_application_security_platforms.pdf).
 
 ### July 2021 Online Meetup: API Security and the OWASP API Security Top 10
 
