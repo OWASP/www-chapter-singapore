@@ -34,6 +34,24 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
+### September 2021 Online Meetup: Developing secure software with OWASP tools and guides
+
+**Date**: 2 September 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
+
+All know the OWASP Top 10 and some other OWASP projects. The problem is that it is hard to find anything if you don't know what you are looking for. This presentation is an OWASP project showcase, highlighting various OWASP projects, their usage and how they fit into your application development pipeline.
+
+**Speaker**: Martin Knobloch
+
+Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time information security leader with more than 15 years of experience in the field. With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
+
+# Past Meetups
+
+### 2021
+
 ### August 2021 Online Meetup: Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and Aqua Security Trivy & tfsec
 
 **Date**: 5 August 2021 730pm to 900pm
@@ -54,24 +72,7 @@ Nathan Aw is first and foremost a microservices developer then turned AppSec arc
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279796090)
 
-
-### September 2021 Online Meetup: Developing secure software with OWASP tools and guides
-
-**Date**: 2 September 2021 730pm to 900pm
-
-**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
-
-All know the OWASP Top 10 and some other OWASP projects. The problem is that it is hard to find anything if you don't know what you are looking for. This presentation is an OWASP project showcase, highlighting various OWASP projects, their usage and how they fit into your application development pipeline.
-
-**Speaker**: Martin Knobloch
-
-Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time information security leader with more than 15 years of experience in the field. With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
-
-Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
-
-# Past Meetups
-
-### 2021
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Multi-cloud_Portable_-Tier_Microservices_Applications_ A_live_demo_on_cloud-native_application_security_platforms.pdf).
 
 ### July 2021 Online Meetup: API Security and the OWASP API Security Top 10
 
