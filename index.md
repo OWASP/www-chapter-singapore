@@ -34,6 +34,24 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
+### OCtober 2021 Online Meetup: Securing Cloud-Native Supply Chain: Some helpful Checklist and Demo on Notary based on The Update Framework (TUF)
+
+**Date**: 5 October 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/280590027)
+
+With the significant increased adoption in cloud-native technologies and against the backdrop of supply chain attacks (Solarwinds hack), what can all of us do to ensure what we build and deploy to Production is indeed secure? In this session, Nathan Aw will expound on the need for a Secure Software Factory (SSF), share some useful cloud-native security checklists and finally demo some security and compliance tools that can help to secure our cloud-native supply chain.
+
+**Speaker**: Nathan Aw
+
+A hands-on microservices developer turned AppSec architect and practitioner, Nathan Aw unyielding passion lies in building and deploying secure and scalable software that can run anywhere. Through the actual hands-on setup of a Secure Software Factory (SSF), Nathan understands intimately the importance of setting up a first-class secure software factory that is able to quickly deliver trusted and secure digital services to its customers. More on Nathan can be found at https://sg.linkedin.com/in/awnathan
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/280590027)
+
+# Past Meetups
+
+### 2021
+
 ### September 2021 Online Meetup: Developing secure software with OWASP tools and guides
 
 **Date**: 2 September 2021 730pm to 900pm
@@ -47,10 +65,6 @@ All know the OWASP Top 10 and some other OWASP projects. The problem is that it 
 Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time information security leader with more than 15 years of experience in the field. With a background in software development and architecture, his focus is on software security. Martin is actively involved in OWASP where he is a frequent contributor to various projects and initiatives, as well as a member of the Board of Directors. During his career, Martin has been a recognized teacher, guest lecturer at various universities and invited speaker and trainer at local and international software development, testing and security conferences throughout the world.
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
-
-# Past Meetups
-
-### 2021
 
 ### August 2021 Online Meetup: Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and Aqua Security Trivy & tfsec
 
