@@ -34,7 +34,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
-### OCtober 2021 Online Meetup: Securing Cloud-Native Supply Chain: Some helpful Checklist and Demo on Notary based on The Update Framework (TUF)
+### October 2021 Online Meetup: Securing Cloud-Native Supply Chain: Some helpful Checklist and Demo on Notary based on The Update Framework (TUF)
 
 **Date**: 5 October 2021 730pm to 900pm
 
