@@ -66,6 +66,8 @@ Martin Knobloch, Global AppSec Strategist at Micro Focus, is a long-time informa
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/279463596)
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_develop_secure_software_with_OWASP_20210902.pdf).
+
 ### August 2021 Online Meetup: Securing the Multi-cloud, Portable, *-Tier Microservice Application: A live demo on Cloud-Native Application Security Platforms: Curiefense, Deepfense, Sysdig, Snyk Code, and Aqua Security Trivy & tfsec
 
 **Date**: 5 August 2021 730pm to 900pm
