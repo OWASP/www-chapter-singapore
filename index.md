@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Singapore
-tags: example-tag
+tags: 
 level: 0
 meetup-group: singapore-owasp-meetup-group
 region: Asia
@@ -34,9 +34,9 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
-### October 2021 Online Meetup: Securing Cloud-Native Supply Chain: Some helpful Checklist and Demo on Notary based on The Update Framework (TUF)
+### October 2021 Online Meetup: Enabling Zero Trust Architecture (ZTA) with Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Notary (The Update Framework) (Demo)
 
-**Date**: 5 October 2021 730pm to 900pm
+**Date**: 19 October 2021 730pm to 900pm
 
 **Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/280590027)
 
