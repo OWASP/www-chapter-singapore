@@ -34,6 +34,10 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2021
 
+# Past Meetups
+
+### 2021
+
 ### October 2021 Online Meetup: Enabling Zero Trust Architecture (ZTA) with Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Notary (The Update Framework) (Demo)
 
 **Date**: 19 October 2021 730pm to 900pm
@@ -48,9 +52,7 @@ A hands-on microservices developer turned AppSec architect and practitioner, Nat
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/280590027)
 
-# Past Meetups
-
-### 2021
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Securing_Production_Identity_Framework_for_Everyone_(SPIFFE),_Building_End_to_End_Secure_Software_Factory_and_Protecting_Cloud-Native_Supply_Chain_Helpful_Cloud-Native_Security_Checklists_and_Demo_on_SPIFFE_and_Not.pdf).
 
 ### September 2021 Online Meetup: Developing secure software with OWASP tools and guides
 
