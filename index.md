@@ -426,6 +426,8 @@ Many thanks to F5 for sponsoring food and drinks\!
 
 Please RSVP your attendance at https://www.meetup.com/SGSecurityMG/
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/basic_pentesting_of_blockchain_2019.pdf).
+
 #### September 2019 Meetup: Introduction to CVSSv3.1 - Minor Release
 
 **Date**: 19 September 2019 730pm to 900pm
