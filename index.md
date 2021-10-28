@@ -22,10 +22,6 @@ Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaB
 is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-## OWASP Singapore is proudly celebrating OWASP's 20th Anniversary
-[![OWASP 20th Anniversary Image](assets/images/OWASP_20th_Anniversary.png)](https://20thanniversary.owasp.org/)
-To celebrate this incredible milestone, OWASP will be holding a 24- hour live virtual event with special Keynote speakers and featured talks from around the world. We are anticipating 10K+ in attendees, over 50 sponsors, 90+ speakers and over 50 countries to be represented. Come and join us!
-
 # Upcoming Meetup
 
 We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
@@ -33,6 +29,32 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### 2021
+
+### November 2021 Online Meetup: Tools and Guidelines to Secure Software Packages, Dependencies (NPM, PyPI, Maven, NuGet, Crates and RubyGems) to Guard against Supply Chain Attacks. How to setup Guardrails and not Roadblocks or Gates: Shift Left with Gitops plus integrating Fuzzing into DevSecOps. The importance of having Cloud Infrastructure Entitlements Management (CIEM) to enforce permissions and security identities across workloads and clouds. 
+
+**Date**: 16 November 2021 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/281710523)
+
+In this meetup, we will explore some tools and understand guidelines that can secure popular software packages and dependencies such as NPM, PyPI, Maven, NuGet, Crates and RubyGems. 
+
+We will also learn how Gitops play a critical role in "shifting left" and learn how to set up guardrails, not roadblocks, to help developers. 
+
+We will also look at how fuzzing can be incorporated into DevSecOps. 
+
+Finally we will learn the importance of having Cloud Infrastructure Entitlements Management (CIEM) to enforce permissions and security identities across workloads and clouds. Demo will be included in this meetup. 
+
+**Speaker**: Nathan Aw
+
+With over 9 years of experience as a software developer and application (security) architect, Nathan Aw is a firm believer-practitioner of zero trust and advocate of secure coding practices. His passion is in designing, building and rolling out asynchronous, polyglot-based microservices that are both zero-trust, performant which can securely run anywhere (multi-cloud and/or on-premise) that scale without limits. 
+
+Through hands-on setup of a Secure Software Factory (SSF), he understand the importance of setting up a first-class secure software factory that is able to industralise “shift left” practises that translates to quicker delivery of trusted and secure digital services to its customers. 
+
+Other interests include emerging technology frameworks such as WebAssembly and frontier technologies like quantum computing.
+
+More on Nathan Aw at https://nathanawmk.github.io/ and https://sg.linkedin.com/in/awnathan
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/281710523)
 
 # Past Meetups
 
