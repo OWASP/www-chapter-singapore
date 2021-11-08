@@ -46,13 +46,13 @@ Finally we will learn the importance of having Cloud Infrastructure Entitlements
 
 **Speaker**: Nathan Aw
 
-With over 9 years of experience as a software developer and application (security) architect, Nathan Aw is a firm believer-practitioner of zero trust and advocate of secure coding practices. His passion is in designing, building and rolling out asynchronous, polyglot-based microservices that are both zero-trust, performant which can securely run anywhere (multi-cloud and/or on-premise) that scale without limits. 
+With over 9 years of experience as a software developer and application (security) architect, Nathan Aw is a firm believer-practitioner of zero trust and advocate of secure coding practices. His passion is in designing, building and rolling out asynchronous, polyglot-based microservices that are both zero-trust, performant which can securely run anywhere (multi-cloud and/or on-premise) that scale without limits.
 
-Through hands-on setup of a Secure Software Factory (SSF), he understand the importance of setting up a first-class secure software factory that is able to industralise “shift left” practises that translates to quicker delivery of trusted and secure digital services to its customers. 
+Through hands-on setup of a Secure Software Factory (SSF), he understands the importance of setting up a first-class secure software factory that is able to industralise “shift left” practises that translates to quicker delivery of trusted and secure digital services to its customers.
 
-Other interests include emerging technology frameworks such as WebAssembly and frontier technologies like quantum computing.
+Other Nathan's interests include emerging technology frameworks and frontier technologies such as WebAssembly,  metaverse, quantum computing,  cybersecurity for 5G Cloud Infrastructure and ICS/OT.
 
-More on Nathan Aw at https://nathanawmk.github.io/ and https://sg.linkedin.com/in/awnathan
+More on Nathan can be found at https://nathanawmk.github.io/ and https://sg.linkedin.com/in/awnathan
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/281710523)
 
