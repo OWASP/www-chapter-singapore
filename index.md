@@ -28,6 +28,12 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
+### 2022
+
+Coming soon.
+
+# Past Meetups
+
 ### 2021
 
 ### November 2021 Online Meetup: Tools and Guidelines to Secure Software Packages, Dependencies (NPM, PyPI, Maven, NuGet, Crates and RubyGems) to Guard against Supply Chain Attacks. How to setup Guardrails and not Roadblocks or Gates: Shift Left with Gitops plus integrating Fuzzing into DevSecOps. The importance of having Cloud Infrastructure Entitlements Management (CIEM) to enforce permissions and security identities across workloads and clouds. 
@@ -56,9 +62,7 @@ More on Nathan can be found at https://nathanawmk.github.io/ and https://sg.link
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/281710523)
 
-# Past Meetups
-
-### 2021
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/Supply_Chain_Security_Securing_your_NPM,_PyPI,_Maven_and_Crates_(Rust),_Shift_Left_with_Gitops_and_Software_Fuzzing.pdf).
 
 ### October 2021 Online Meetup: Enabling Zero Trust Architecture (ZTA) with Identity-Based Micro-segmentation using Service Mesh and Securing Production Identity Framework for Everyone (SPIFFE) (Demo) & Building Secure Software Factory (SSF) to Defend the Digital Cloud-Native Software Supply Chain against attacks: Helpful Cloud-Native Security Checklists and Notary (The Update Framework) (Demo)
 
