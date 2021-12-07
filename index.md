@@ -30,7 +30,24 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2022
 
-Coming soon.
+### January 2022 Online Meetup: Effective Approaches for Shift Left Security
+
+**Date**: 13 January 2022 730pm to 900pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/282543092)
+
+The concept of shift left is not new, but it is more possible today thanks to how cloud native applications are designed and deployed. This session will look at some key threats associated with cloud native applications and examples of how shifting security left can greatly help an organization's security posture.
+
+**Speaker**: Siddharth Deshpande
+
+With over 15 years of experience in the technology and cybersecurity domains, Siddharth Deshpande is Palo Alto Networks’ CTO for the APAC region, focussed on the emerging areas of cloud native application security and security for the hybrid workforce.
+
+In this role, he leads both business and technical focussed advisory engagements around cloud security to the largest corporations and government agencies in the region.
+
+He joined Palo Alto Networks from Akamai where he was a key technology leader focussed on emerging cybersecurity domains across Asia-Pacific and Japan. Prior to Akamai, Siddharth spent almost a decade at Gartner where he was a strategic advisor to organizations across the Asia-Pacific and Japan region as well as globally around a variety of emerging and established cybersecurity domains. Siddharth holds a Bachelor in Electronics Engineering from Mumbai University in India
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/282543092)
+
 
 # Past Meetups
 
