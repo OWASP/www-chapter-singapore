@@ -30,6 +30,29 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2022
 
+### July 2022 Online Meetup: AWSGoat : A Damn Vulnerable AWS Infrastructure
+
+**Date**: 13 July 2022 700pm to 830pm
+
+**Venue**: Google Meet - get the Google Meet URL from [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/286864700)
+
+Compromising an organization's cloud infrastructure is like sitting on a gold mine for attackers. And sometimes, a simple misconfiguration or a vulnerability in web applications, is all an attacker needs to compromise the entire infrastructure. Since cloud is relatively new, many developers are not fully aware of the threatscape and they end up deploying a vulnerable cloud infrastructure. When it comes to web application pentesting on traditional infrastructure, deliberately vulnerable applications such as DVWA and bWAPP have helped the infosec community in understanding the popular web attack vectors. However, at this point in time, we do not have a similar framework for the cloud environment.
+
+In this talk, we will be introducing AWSGoat, a vulnerable by design infrastructure on AWS featuring the latest released OWASP Top 10 web application security risks (2021) and other misconfiguration based on services such as IAM, S3, API Gateway, Lambda, EC2, and ECS. AWSGoat mimics real-world infrastructure but with added vulnerabilities. The idea behind AWSGoat is to provide security enthusiasts and pen-testers with an easy to deploy/destroy vulnerable infrastructure where they can learn how to enumerate cloud applications, identify vulnerabilities, and chain various attacks to compromise the AWS account. The deployment scripts will be open-source and made available after the talk.
+
+The nice thing is that Jeswin will be early-releasing AWSGoat even before his actual release at Blackhat USA this year! Woot!
+
+**Speaker**: Jeswin Mathai
+
+Jeswin Mathai is the Chief Architect (Lab Platform) at INE. He leads the team responsible for managing the lab infrastructure, Prior to joining INE, He was working as a senior security researcher at Pentester Academy (Acquired by INE). He has published his work at DEFCON China, RootCon, Blackhat Arsenal, and Demo labs (DEFCON). He has also been a co-trainer in classroom trainings conducted at Black Hat Asia, HITB, RootCon, and OWASP NZ Day. He has a Bachelor degree from IIIT Bhubaneswar. He was the team lead at InfoSec Society IIIT Bhubaneswar in association with CDAC and ISEA, which performed security auditing of government portals, conducted awareness workshops for government institutions. His area of interest includes Cloud Security, Container Security, and Web Application Security.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/286864700)
+
+
+# Past Meetups
+
+### 2022
+
 ### January 2022 Online Meetup: Effective Approaches for Shift Left Security
 
 **Date**: 13 January 2022 730pm to 900pm
@@ -47,9 +70,6 @@ In this role, he leads both business and technical focussed advisory engagements
 He joined Palo Alto Networks from Akamai where he was a key technology leader focussed on emerging cybersecurity domains across Asia-Pacific and Japan. Prior to Akamai, Siddharth spent almost a decade at Gartner where he was a strategic advisor to organizations across the Asia-Pacific and Japan region as well as globally around a variety of emerging and established cybersecurity domains. Siddharth holds a Bachelor in Electronics Engineering from Mumbai University in India
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/282543092)
-
-
-# Past Meetups
 
 ### 2021
 
