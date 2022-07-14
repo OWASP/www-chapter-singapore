@@ -30,6 +30,12 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2022
 
+Coming soon!
+
+# Past Meetups
+
+### 2022
+
 ### July 2022 Online Meetup: AWSGoat : A Damn Vulnerable AWS Infrastructure
 
 **Date**: 13 July 2022 700pm to 830pm
@@ -48,10 +54,7 @@ Jeswin Mathai is the Chief Architect (Lab Platform) at INE. He leads the team re
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/286864700)
 
-
-# Past Meetups
-
-### 2022
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/AWSGoat_-_A_Damn_Vulnerable_AWS_Infrastructure.pdf).
 
 ### January 2022 Online Meetup: Effective Approaches for Shift Left Security
 
