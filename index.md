@@ -53,10 +53,15 @@ Effective security comes in layers. In this session, Shahn will cover wide range
 **Schedule**
 
 6:30 - 7:00 PM - Attendees arrive, networking over pizza, snacks, and drinks
+
 7.00 – 7.05 PM - Webinar starts for online Attendees - Welcome
+
 7.05 – 7.50 PM - Lessons Learnt from Past Data Breaches in Singapore from Onn Chee
+
 7.50 – 8.00 PM - Break
+
 8.00 – 8.45 PM - Defence In Depth for APIs from Shahn
+
 8.45 – 9.00 PM - Q&A & Wrap - Up
 
 **Speakers:**
