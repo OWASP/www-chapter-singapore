@@ -30,7 +30,45 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2022
 
-Coming soon!
+### December 2022 Meetup: Lessons Learnt from Past Data Breaches in Singapore & Defence in depth for APIs
+
+**Date**: 1 December 2022 630pm to 900pm
+
+**Venue**: F5 Office Level 8, Suntec Tower 5, 5 Temasek Blvd, Singapore 038985
+
+In this meetup, we have 2 speakers – Onn Chee from OWASP SG and Shahnawaz Backer (Shahn) from F5. This will be OWASP Singapore first hybrid meetup where we will be meeting in-person and will be streaming live for friends who cannot attend in person. The online meeting URL will only be provided once the in-person RSVP is filled up.
+
+As the venue is in F5 office, for corporate security reasons, please register your attendance too at https://www.f5.com/c/apcj-2022/event/owasp-singapore-meet-up
+
+Many thank to F5 for sponsoring the venue and F&B!
+
+**Session 1: Lessons Learnt from Past Data Breaches in Singapore**
+
+In this session, Onn Chee will cover 3 PDPC published decisions - one on ransomware and 2 on API insecurity - and lessons we can draw from such cases. In addition, Onn Chee will highlight a common mistake what cloud users make in managing credentials and/or access keys on cloud. OWASP API Top 10 will be touched on too.
+
+**Session 2: Defence In Depth for APIs**
+
+Effective security comes in layers. In this session, Shahn will cover wide range of controls needed to build layers of API defense. We will study the kill chain for an API breach and share design approaches to meet these challenges and cover for OWASP API security Top 10.
+
+**Schedule**
+6:30 - 7:00 PM - Attendees arrive, networking over pizza, snacks, and drinks |
+7.00 – 7.05 PM - Webinar starts for online Attendees - Welcome
+7.05 – 7.50 PM - Lessons Learnt from Past Data Breaches in Singapore from Onn Chee
+7.50 – 8.00 PM - Break
+8.00 – 8.45 PM - Defence In Depth for APIs from Shahn
+8.45 – 9.00 PM - Q&A & Wrap - Up
+
+**Speakers:**
+
+**Wong Onn Chee**
+Onn Chee is a n00b in infosec for more than 22 years ;-). He is the current chapter co-lead of OWASP Singapore.
+
+**Shahnawaz Backer**
+Shahn has over a decade experience in Information Security, practicing in the Asia Pacific. With keen interest in modern application security, digital identity, and multi-cloud security, he focuses on building security intelligence into solutions and firmly believes in automated proactive defense. He writes on IT security at f5labs.com and has co-authored a Redbook on access management deployment patterns.
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/)
+For corporate security reasons, please register your attendance too at https://www.f5.com/c/apcj-2022/event/owasp-singapore-meet-up
+
 
 # Past Meetups
 
