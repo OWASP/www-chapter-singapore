@@ -67,9 +67,11 @@ Effective security comes in layers. In this session, Shahn will cover wide range
 **Speakers:**
 
 Wong Onn Chee
+
 Onn Chee is a n00b in infosec for more than 22 years ;-). He is the current chapter co-lead of OWASP Singapore.
 
 Shahnawaz Backer
+
 Shahn has over a decade experience in Information Security, practicing in the Asia Pacific. With keen interest in modern application security, digital identity, and multi-cloud security, he focuses on building security intelligence into solutions and firmly believes in automated proactive defense. He writes on IT security at f5labs.com and has co-authored a Redbook on access management deployment patterns.
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/)
