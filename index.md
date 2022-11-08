@@ -51,7 +51,8 @@ In this session, Onn Chee will cover 3 PDPC published decisions - one on ransomw
 Effective security comes in layers. In this session, Shahn will cover wide range of controls needed to build layers of API defense. We will study the kill chain for an API breach and share design approaches to meet these challenges and cover for OWASP API security Top 10.
 
 **Schedule**
-6:30 - 7:00 PM - Attendees arrive, networking over pizza, snacks, and drinks |
+
+6:30 - 7:00 PM - Attendees arrive, networking over pizza, snacks, and drinks
 7.00 – 7.05 PM - Webinar starts for online Attendees - Welcome
 7.05 – 7.50 PM - Lessons Learnt from Past Data Breaches in Singapore from Onn Chee
 7.50 – 8.00 PM - Break
@@ -60,10 +61,10 @@ Effective security comes in layers. In this session, Shahn will cover wide range
 
 **Speakers:**
 
-**Wong Onn Chee**
+Wong Onn Chee
 Onn Chee is a n00b in infosec for more than 22 years ;-). He is the current chapter co-lead of OWASP Singapore.
 
-**Shahnawaz Backer**
+Shahnawaz Backer
 Shahn has over a decade experience in Information Security, practicing in the Asia Pacific. With keen interest in modern application security, digital identity, and multi-cloud security, he focuses on building security intelligence into solutions and firmly believes in automated proactive defense. He writes on IT security at f5labs.com and has co-authored a Redbook on access management deployment patterns.
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/)
