@@ -28,6 +28,12 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
+### 2023
+
+Coming soon.
+
+# Past Meetups
+
 ### 2022
 
 ### December 2022 Meetup: Lessons Learnt from Past Data Breaches in Singapore & Defence in depth for APIs
@@ -70,17 +76,18 @@ Wong Onn Chee
 
 Onn Chee is a n00b in infosec for more than 22 years ;-). He is the current chapter co-lead of OWASP Singapore.
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_Dec_1_Lessons_Learnt_from_Data_Breaches_in_Singapore.pdf).
+
 Shahnawaz Backer
 
 Shahn has over a decade experience in Information Security, practicing in the Asia Pacific. With keen interest in modern application security, digital identity, and multi-cloud security, he focuses on building security intelligence into solutions and firmly believes in automated proactive defense. He writes on IT security at f5labs.com and has co-authored a Redbook on access management deployment patterns.
+
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_Meetup_Shahn_-_Defense_in_Depth_-_API_Edition.pdf).
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/)
 For corporate security reasons, please register your attendance too at https://www.f5.com/c/apcj-2022/event/owasp-singapore-meet-up
 
 
-# Past Meetups
-
-### 2022
 
 ### July 2022 Online Meetup: AWSGoat : A Damn Vulnerable AWS Infrastructure
 
