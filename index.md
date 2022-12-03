@@ -84,7 +84,7 @@ Shahn has over a decade experience in Information Security, practicing in the As
 
 Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_Meetup_Shahn_-_Defense_in_Depth_-_API_Edition.pdf).
 
-Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/)
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/289618766/).
 For corporate security reasons, please register your attendance too at https://www.f5.com/c/apcj-2022/event/owasp-singapore-meet-up
 
 
