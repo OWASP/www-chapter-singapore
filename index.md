@@ -30,7 +30,62 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2023
 
-Coming soon.
+### May 2023 Meetup: Hands-on walkthrough of API Security and Automating Testing for Complex API Scenarios.
+
+**Date**: 10 May 2023 7pm to 9pm
+
+**Venue**: Akamai Singapore office, 1 Raffles Place, \#17-61, One Raffles Place Tower 2, Singapore 048616
+
+Ashwath (co-author of ATOR Burp Plugin) and Avneesh (employee of Akto) will be doing a hands-on walkthrough of api security and talk about automating testing for complex api scenarios. They will cover the following topics:
+ 
+    1. What is API Security
+ 
+    2. Why is it important? 
+
+    3. Why do BB hunters find more bugs than appsec/internal folks?
+
+    4. Common problems with API Security 
+
+    5. Automated tools that are in the market:
+
+        a. Burp native scanning
+
+        b. Burp plugins - ATOR 
+
+        c. Akto open source 
+
+    6. Running ATOR against some basic scenarios - Demo & Hands on
+
+    7. Running Akto against a test setup - Demo & Hands on
+
+    8. Q&A 
+
+    9. Wrap-up
+
+
+**Target Audience:** Appsec engineers, Developers who work on APIs, Bug Bounty Hunters
+
+**What will they gain at end of session:**
+
+    1. Why is API security important?
+
+    2. How do misconfigurations happen?
+
+    3. How to build an inventory of APIs? 
+
+    4. How to automate testing for complex scenarios (chained login, multi-step API request etc.)
+
+
+**Speaker**: Ashwath
+
+Ashwath currently works as a Principal Engineer at Razorpay. He has previously worked at Synopsys and Microsoft Corp. His interests are in Cloud Security, Red teaming, Application security (Web Applications) and Threat Modeling. He has released plugins for Burp to handle complex authentication mechanisms . He has presented at Rootconf, FS-Isac, Nullcon, Cocon, Bright Talk, 50p (HasGeek) and technical conferences conducted by SAP, IAF, Infosys, NetApp amongst others.
+
+**Speaker**: Avneesh
+
+Avneesh started as the first employee at akto.io (an api security company). His interests lie in the area of api security, understanding misconfigurations api setup and variants of api architectures like GraphQL, JSONP, gRPC. While working on the tool, he has shared his experiences in multiple forums such as Accel CTO & CISO summit. 
+
+Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/292823383)
+
 
 # Past Meetups
 
