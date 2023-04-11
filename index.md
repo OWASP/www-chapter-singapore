@@ -36,7 +36,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 **Venue**: Akamai Singapore office, 1 Raffles Place, \#17-61, One Raffles Place Tower 2, Singapore 048616
 
-Ashwath (co-author of ATOR Burp Plugin) and Avneesh (employee of Akto) will be doing a hands-on walkthrough of api security and talk about automating testing for complex api scenarios. They will cover the following topics:
+Ashwath (co-author of ATOR Burp Plugin) and Avneesh (employee of Akto) will be doing a hands-on walkthrough of API security and talk about automating testing for complex API scenarios. They will cover the following topics:
  
     1. What is API Security
  
@@ -82,7 +82,7 @@ Ashwath currently works as a Principal Engineer at Razorpay. He has previously w
 
 **Speaker**: Avneesh
 
-Avneesh started as the first employee at akto.io (an api security company). His interests lie in the area of api security, understanding misconfigurations api setup and variants of api architectures like GraphQL, JSONP, gRPC. While working on the tool, he has shared his experiences in multiple forums such as Accel CTO & CISO summit. 
+Avneesh started as the first employee at akto.io (an api security company). His interests lie in the area of API security, understanding misconfigurations in API setup and variants of API architectures like GraphQL, JSONP, gRPC. While working on the tool, he has shared his experiences in multiple forums such as Accel CTO & CISO summit. 
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/292823383)
 
