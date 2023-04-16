@@ -62,6 +62,8 @@ Ashwath (co-author of ATOR Burp Plugin) and Avneesh (employee of Akto) will be d
 
     9. Wrap-up
 
+ATOR - [Ator Github](https://github.com/PortSwigger/ator)  
+Akto - [Akto Homepage](https://www.akto.io/) 
 
 **Target Audience:** Appsec engineers, Developers who work on APIs, Bug Bounty Hunters
 
