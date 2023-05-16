@@ -88,6 +88,9 @@ Avneesh started as the first employee at akto.io (an api security company). His 
 
 Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/292823383)
 
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/API_Security-OWASP-SG.pdf).
+
+The accompanying runbook can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/API_Security-OWASP_SG_Event_Runbook.pdf).
 
 # Past Meetups
 
