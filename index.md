@@ -30,6 +30,12 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2023
 
+Coming soon
+
+# Past Meetups
+
+### 2023
+
 ### May 2023 Meetup: Hands-on walkthrough of API Security and Automating Testing for Complex API Scenarios.
 
 **Date**: 10 May 2023 7pm to 9pm
@@ -91,8 +97,6 @@ Please RSVP your attendance at [OWASP SG Meetup page](https://www.meetup.com/sin
 Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/API_Security-OWASP-SG.pdf).
 
 The accompanying runbook can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/API_Security-OWASP_SG_Event_Runbook.pdf).
-
-# Past Meetups
 
 ### 2022
 
