@@ -26,7 +26,7 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ![Global AppSec SG 2023 Logo](https://owasp.org/www-chapter-singapore/assets/images/OWASPAppSecSingaporeLogo.png)
 
-[Join us](https://singapore.globalappsec.org/) for the 2023 Global AppSec Singapore held at Marina Bay Sands Singapore. Designed for private and public sector infosec professionals, the one-day OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering educational **1-day training courses on 04-October followed by the conference and exhibition on 05-October.
+[Join us](https://singapore.globalappsec.org/) for the 2023 Global AppSec Singapore held at Marina Bay Sands Singapore. Designed for private and public sector infosec professionals, the one-day OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering educational **1-day training courses on 04-October followed by the conference and exhibition on 05-October.**
 
 
 
