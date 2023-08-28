@@ -39,7 +39,46 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2023
 
-Coming soon
+### September 2023 Meetup: APIs Unveiled: A Deep Dive into OWASP Top 10 and Zero Trust Access.
+
+**Date**: 6 Sep 2023 630pm to 9pm
+
+**Venue**: F5 Office, Level 8, Suntec Tower 5, Temasek Boulevard, Singapore 038985
+
+F5 is hosting our next OWASP SG hybrid meetup - online and in person - on API Security that you won't want to miss.
+
+We have a distinguished speaker lined up: James Lee from F5. The topics covered in this meetup will be highly relevant for individuals engaged in both AppSec within App Development and AppSec within Cyber Security.
+
+Join us as we gather to share knowledge over delectable pizza and refreshing drinks!
+
+Limited in-person seats are available at the venue @ F5 Office, so be sure to secure your spot now. If you can't attend in person, no worries! Register to access the live stream.
+
+Stay tuned for the meeting URL – we'll send it your way once you're registered.
+
+This is an opportunity you won't want to miss to enhance your understanding of API Security. See you there!
+
+**Session 1: The new OWASP Top 10 API Security 2023**
+
+Join us for an insightful session where we delve into the evolving landscape of API security. In this engaging event, we will uncover the advancements made in the OWASP API Top 10 from 2019 to 2023, highlighting the key changes and emerging threats.
+
+The core focus will be on two crucial aspects of API security – tackling the challenges posed by API10:2023 - Unsafe Consumption of APIs and addressing API8:2023 - Security Misconfiguration
+
+We'll also address lessons learned from the Log4J vulnerability, aiming to better equip you for future situations.
+
+**Session 2: Zero Trust API Access based on OAuth**
+
+In today's hybrid and multi-cloud environments, API communications play a pivotal role, forming a critical foundation for various organizational operations. As many organizations embrace the Zero Trust model as their core security principle, it's essential to recognize that API security holds significant importance within the context of Zero Trust design.However, API security often tends to be underestimated in Zero Trust implementation.
+
+Join us in this session to learn how F5 Distributed Cloud solutions bridge this gap, offering Zero Trust-based API access by leveraging the standard OAuth framework and its App Segmentation integration.
+
+To register for this event, please do so at https://www.f5.com/c/apcj-2023/event/owasp-singapore-meet-up-api-unveiled
+
+**Speaker**: James Jinwon Lee, Security Solutions Architect, F5 APCJ
+
+James Lee joined F5 in Feb 2019 and is currently responsible for supporting F5’s strategic customers and alliance partners in APCJ to design and implement the application delivery network and consulting customers to secure their Web App and APIs. He was involved in API security projects for enterprises in different industries. He serves as the technical subject expert for cybersecurity topics of F5 solutions
+
+Please RSVP your attendance at [F5 registration page](https://www.f5.com/c/apcj-2023/event/owasp-singapore-meet-up-api-unveiled)
+
 
 # Past Meetups
 
