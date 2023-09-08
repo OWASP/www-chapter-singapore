@@ -26,9 +26,9 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 
 ![Global AppSec SG 2023 Logo](https://owasp.org/www-chapter-singapore/assets/images/OWASPAppSecSingaporeLogo.png)
 
-[Join us](https://singapore.globalappsec.org/) for the 2023 Global AppSec Singapore held at Marina Bay Sands Singapore. Designed for private and public sector infosec professionals, the one-day OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering educational **1-day training courses on 04-October followed by the conference and exhibition on 05-October.**
+[Join us](https://singapore.globalappsec.org/) for the 2023 Global AppSec Singapore held at Whova Virtual Platform.
 
-
+Join us for the VIRTUAL 2023 Global AppSec Singapore held on the Whova Event Platform. Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering four educational **1-day and 2-day training courses on 03-October and 04-October that requires a separate ticket purchase followed by the conference and exhibition on 05-October. Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference. With amazing speakers and numerous networking opportunities, this is an event you will not want to miss.
 
 
 # Upcoming Meetup
@@ -36,6 +36,12 @@ run independently and guided by the [Chapter_Policy](https://owasp.org/www-polic
 We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
+
+### 2023
+
+Coming soon.
+
+# Past Meetups
 
 ### 2023
 
@@ -79,10 +85,8 @@ James Lee joined F5 in Feb 2019 and is currently responsible for supporting F5â€
 
 Please RSVP your attendance at [F5 registration page](https://www.f5.com/c/apcj-2023/event/owasp-singapore-meet-up-api-unveiled)
 
+Presos can be downloaded from [here for the 1st session](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_6_Sep_2023_The_new_OWASP_Top_10_API_Security_2023.pdf) and [here for the 2nd session](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_6_Sep_2023_Zero_Trust_API_Access_based_on_OAuth.pdf).
 
-# Past Meetups
-
-### 2023
 
 ### May 2023 Meetup: Hands-on walkthrough of API Security and Automating Testing for Complex API Scenarios.
 
