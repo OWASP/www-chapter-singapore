@@ -22,7 +22,7 @@ Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaB
 is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-## OWASP Global AppSec Singapore 2023 (4 to 5 October 2023)
+## OWASP Global AppSec Singapore 2023 (3 to 5 October 2023)
 
 ![Global AppSec SG 2023 Logo](https://owasp.org/www-chapter-singapore/assets/images/OWASPAppSecSingaporeLogo.png)
 
