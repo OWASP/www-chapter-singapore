@@ -22,15 +22,6 @@ Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaB
 is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-## OWASP Global AppSec Singapore 2023 (3 to 5 October 2023)
-
-![Global AppSec SG 2023 Logo](https://owasp.org/www-chapter-singapore/assets/images/OWASPAppSecSingaporeLogo.png)
-
-[Join us](https://singapore.globalappsec.org/) for the 2023 Global AppSec Singapore held at Whova Virtual Platform.
-
-Join us for the VIRTUAL 2023 Global AppSec Singapore held on the Whova Event Platform. Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering four educational **1-day and 2-day training courses on 03-October and 04-October that requires a separate ticket purchase followed by the conference and exhibition on 05-October. Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference. With amazing speakers and numerous networking opportunities, this is an event you will not want to miss.
-
-
 # Upcoming Meetup
 
 We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
@@ -39,7 +30,33 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2023
 
-Coming soon.
+### December 2023 Meetup: 2 topics - "Fortifying the Front Lines: Safeguarding Mobile Applications Against Layer 7 Threats and Exploits." and "Understanding API Security problems"
+
+**Date**: 28 November 2023 7pm to 9pm
+
+**Venue**: Akamai Singapore office, 1 Raffles Place, \#17-61, One Raffles Place Tower 2, Singapore 048616
+
+We have 2 awesome speakers for our last meetup of 2023!
+
+**Session 1: Fortifying the Front Lines: Safeguarding Mobile Applications Against Layer 7 Threats and Exploits.**
+
+In an era dominated by mobile technology, the security of mobile applications is paramount. With the banking industry implementing new measures, such that restricting users from having certain applications on their devices which they use for sensitive transactions, we explore if these are viable solutions or just a stop-gap measure until the next round of attacks show up on victim's devices.
+
+This presentation delves into the intricate landscape of advanced mobile security attacks that pose significant risks to mobile platforms. We explore the evolving nature of mobile malware, emphasizing the need for proactive measures to fortify applications against advanced attacks.
+
+**1st Presenter**: Pishu Mahtani, Ex-DART
+
+**Session 2: Understanding API Security problems**
+
+It’s no surprise that API adoption is growing rapidly. The reality is that new business innovation and services are powered by APIs. But the rush to innovate is leaving security teams struggling to understand the very real security risks that APIs pose. Today, APIs carry vast amounts of data and are increasingly targets in data breaches.
+
+This talk delves into common API security concerns and the importance of API Discovery. It highlights the key needs for an API security tool to detect API abuses and the importance of having a data lake for threat hunting.
+
+**Speaker**: Chao Yin Loong, Senior Solutions Engineer at Akamai Technologies
+
+Many thanks to Akamai for sponsoring the venue and pizzas! Come early, enjoy free pizzas and inter-mingle with AppSec enthusiasts.
+
+Please RSVP your attendance at here ([https://www.meetup.com/singapore-owasp-meetup-group/events/297472949/])
 
 # Past Meetups
 
