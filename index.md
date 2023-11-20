@@ -56,7 +56,7 @@ This talk delves into common API security concerns and the importance of API Dis
 
 Many thanks to Akamai for sponsoring the venue and pizzas! Come early, enjoy free pizzas and inter-mingle with AppSec enthusiasts.
 
-Please RSVP your attendance at here ([https://www.meetup.com/singapore-owasp-meetup-group/events/297472949/])
+Please RSVP your attendance at [here](https://www.meetup.com/singapore-owasp-meetup-group/events/297472949/)
 
 # Past Meetups
 
