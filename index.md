@@ -30,7 +30,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2023
 
-### December 2023 Meetup: 2 topics - "Fortifying the Front Lines: Safeguarding Mobile Applications Against Layer 7 Threats and Exploits." and "Understanding API Security problems"
+### November 2023 Meetup: 2 topics - "Fortifying the Front Lines: Safeguarding Mobile Applications Against Layer 7 Threats and Exploits." and "Understanding API Security problems"
 
 **Date**: 28 November 2023 7pm to 9pm
 
