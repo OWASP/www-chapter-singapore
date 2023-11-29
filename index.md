@@ -28,6 +28,12 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
+### 2024
+
+Coming soon
+
+# Past Meetups
+
 ### 2023
 
 ### November 2023 Meetup: 2 topics - "Fortifying the Front Lines: Safeguarding Mobile Applications Against Layer 7 Threats and Exploits." and "Understanding API Security problems"
@@ -57,10 +63,6 @@ This talk delves into common API security concerns and the importance of API Dis
 Many thanks to Akamai for sponsoring the venue and pizzas! Come early, enjoy free pizzas and inter-mingle with AppSec enthusiasts.
 
 Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/297472949/).
-
-# Past Meetups
-
-### 2023
 
 ### September 2023 Meetup: APIs Unveiled: A Deep Dive into OWASP Top 10 and Zero Trust Access.
 
