@@ -5,6 +5,7 @@ title: OWASP Singapore
 tags: 
 level: 0
 meetup-group: singapore-owasp-meetup-group
+country:  Singapore
 region: Asia
 
 
