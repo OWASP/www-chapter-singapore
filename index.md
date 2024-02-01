@@ -31,7 +31,36 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2024
 
-Coming soon
+### February 2024 Meetup: 2 topics - "Understanding Server-Side Request Forgery – The new kid on the OWASP Top 10" and "Cracks in the pipeline - Breaking down Software Integrity failures in the wild"
+
+**Date**: 27 February 2024 7pm to 9pm
+
+**Venue**: Zuhlke Engineering Pte Ltd, 80 Robinson Road \#22-04, Singapore 068898
+
+We have 2 awesome speakers for our first meetup of 2024 and many thanks to Zühlke Singapore for sponsoring the venue and food!
+
+**Session 1: Understanding Server-Side Request Forgery – The new kid on the OWASP Top 10.**
+
+Join our OWASP meetup for a critical exploration of Server-Side Request Forgery (SSRF), the latest addition to the OWASP Top 10. This talk will introduce SSRF, explaining its 2 flavours and impact on web applications. Gian-Luca will cover its emergence in the security landscape, analyze real-world case studies, and discuss mitigation strategies. For newcomers we’ll do a short practical demo and for app sec experts we are looking forward to a fruitful discussion about potential mitigation strategies.
+
+**1st Presenter**: Gian-Luca Frei, Zuhlke
+
+Gian-Luca Frei is an experienced Application Security Consultant based in Singapore, currently working at Zühlke. With a passion for security, Gian-Luca has a proven track record of securing systems with the highest security standards, including e-banking portals and health applications. He brings a wealth of knowledge and expertise in the field of application security, having worked in the industry for several years. Gian-Luca is also the founder and co-leader of the OWASP Application Gateway Project, which focuses on developing open-source tools to help secure web applications. In addition to his professional engagements, Gian-Luca is a researcher at heart. He has a keen interest in modern cryptographic protocols and has conducted extensive research in this field. His contributions have been recognized with the ISSS Excellence Award in 2019.
+
+**Session 2: Cracks in the pipeline - Breaking down Software Integrity failures in the wild**
+
+Open-source libraries and packages have long been invaluable resources for developers of all skill levels. However, is this dynamic about to shift? Shockingly, between 2022 and 2023, there was a staggering 11,973% surge in reported malicious packages in the wild. Despite this alarming trend, there's a tendency to overlook A08:2021 – Software and Data Integrity Failures in the OWASP Top 10.
+
+Join us as we delve into the unprecedented rise of malicious packages, explore their inner workings, ingenious tactics, and discuss proactive measures we can adopt to counter these threats. 
+
+**2nd Presenter**: Vinoth, Softscheck
+
+Vinoth leads the Cyber Offensive consulting team in Singapore at softScheck APAC. His insatiable curiosity led him into the world of hacking, where he dedicates his time to uncovering vulnerabilities and safeguarding clients across various industries. Vinoth maintains an avid interest in security research, and a particular passion for low-level systems engineering and exploit development.
+
+Many thanks to Zühlke Singapore for sponsoring the venue and food! Come early, enjoy free food and inter-mingle with AppSec enthusiasts.
+
+Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/298921821/).
+
 
 # Past Meetups
 
