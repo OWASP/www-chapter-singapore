@@ -31,6 +31,12 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2024
 
+Coming soon.
+
+# Past Meetups
+
+### 2024
+
 ### February 2024 Meetup: 2 topics - "Understanding Server-Side Request Forgery – The new kid on the OWASP Top 10" and "Cracks in the pipeline - Breaking down Software Integrity failures in the wild"
 
 **Date**: 27 February 2024 7pm to 9pm
@@ -61,8 +67,8 @@ Many thanks to Zühlke Singapore for sponsoring the venue and food! Come early, 
 
 Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/298921821/).
 
+Presos can be downloaded from [here for the 1st session](https://owasp.org/www-chapter-singapore/assets/presos/Gian-Luca_Frei_20240227_OWASP_ssrf.pdf) and [here for the 2nd session](https://owasp.org/www-chapter-singapore/assets/presos/V_Vinoth_owasp-sg-022024-vvinoth-cracks_in_the_pipeline.pdf).
 
-# Past Meetups
 
 ### 2023
 
