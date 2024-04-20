@@ -31,7 +31,23 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2024
 
-Coming soon.
+### May 2024 Meetup: Zero Trust in API Security
+
+**Date**: 8 May 2024 7pm to 9pm
+
+**Venue**: F5 Networks Singapore Pte Ltd, 5 Temasek Boulevard, \#08-01\/02, Suntec Tower Five, Singapore 038985
+
+The ultimate goal of Zero-Trust Architecture is to protect an organization’s critical data against advanced threats. However, the current market focus is overly focused on network architecture, overlooking the elephant in the room.
+
+In a modern application architecture, APIs are the backbone of interconnecting microservices. This means APIs are the most closely related ‘services’ to an organization’s data, which explains why advanced attackers target APIs. In this session, we will explain how the zero-trust concept protects APIs.
+
+**Presenter**: James Jinwon Lee, Security Solution Architect, F5 APCJ
+
+James Lee joined F5 in Feb 2019 and is currently responsible for supporting F5’s strategic customers and alliance partners in APCJ to design and implement the application delivery network and consulting customers to secure their Web App and APIs. He serves as the technical subject expert for cybersecurity topics of F5 solutions.
+
+Many thanks to F5 Singapore for sponsoring the venue and food! Come early, enjoy free food and inter-mingle with AppSec enthusiasts.
+
+Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/300531477/) by 7 May 2024 7pm SGT.
 
 # Past Meetups
 
