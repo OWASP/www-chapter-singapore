@@ -31,6 +31,13 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 ### 2024
 
+New meetups coming soon!
+
+
+# Past Meetups
+
+### 2024
+
 ### May 2024 Meetup: Zero Trust in API Security
 
 **Date**: 8 May 2024 7pm to 9pm
@@ -49,9 +56,7 @@ Many thanks to F5 Singapore for sponsoring the venue and food! Come early, enjoy
 
 Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/300531477/) by 7 May 2024 7pm SGT.
 
-# Past Meetups
-
-### 2024
+Preso can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/OWASP_SG_May_8_2024-05_API_Micro-Segmentation.pdf).
 
 ### February 2024 Meetup: 2 topics - "Understanding Server-Side Request Forgery – The new kid on the OWASP Top 10" and "Cracks in the pipeline - Breaking down Software Integrity failures in the wild"
 
