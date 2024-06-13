@@ -28,6 +28,8 @@ Join us for the [2024 OWASP AppSec Days Singapore](https://singapore.appsecdays.
 
 The Call for Presentations is available [here](https://owasp.submittable.com/submit/297803/owasp-2024-appsec-days-singapore) and the Call for Trainers is available [here](https://owasp.submittable.com/submit/298300/2024-owasp-appsec-days-singapore-cft).
 
+For interested exhibitors or sponsors, please submit your interest [here](https://owasp.wufoo.com/forms/2024-appsec-days-singapore-exhibit-interest/) to dowwnload the sponsorship prospectus.
+
 # Upcoming Meetup
 
 We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
