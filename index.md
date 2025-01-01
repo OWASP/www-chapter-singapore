@@ -36,9 +36,29 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
-### 2024
+### 2025
 
-New meetups coming soon!
+### Jan 2025 Joint Meetup with AISP AI SIG: Safeguarding the Future of Artificial Intelligence
+
+**Date**: 15 January 2025 630pm to 830pm
+
+**Venue**: 6 Raffles Boulevard, JustCo, Marina Square, #03-308, Singapore 039594
+
+The evening will kick off with a thought-provoking presentations by our line up of speakers, setting the stage for an intellectual journey into the heart of AI vulnerabilities and defenses. Attendees will gain insights into the latest adversarial attacks on AI models, delve into the nuances of privacy preservation in AI systems, and explore ethical considerations in AI development and deployment.
+
+The event will culminate in an interactive Q&A session, encouraging attendees to engage directly with our speakers and fostering the collaborative spirit that both AiSP and OWASP hold dear. This open dialogue will not only address current challenges but also spark discussions on future trends and potential solutions in AI security. Join us for an evening of enlightenment, engagement, and empowerment as we collectively work towards a more secure AI-driven world. Together, we'll explore how to build unassailable fortresses in the cognitive realm, ensuring that as AI advances, our defenses evolve in tandem.
+
+**Synopsis**:
+In the rapidly evolving landscape of artificial intelligence, where Large Language Models (LLMs) and advanced AI systems are reshaping our digital world, the need for robust security measures has never been more critical. The Association of Information Security Professionals (AiSP) and the Open Web Application Security Project (OWASP) proudly present "Safeguarding the Future of Artificial Intelligence" an enlightening evening session that bridges the gap between AI innovation and cybersecurity. This event embodies the shared values of AiSP and OWASP – fostering knowledge sharing, promoting best practices, and nurturing a vibrant community of security-conscious professionals.
+
+**Securing AI systems: An overview and the lifecycle approach**
+Speaker: Mr Loh Chee Keong, Lead Consultant for AI Security, Cybersecurity Engineering Centre, Cyber Security Agency of Singapore
+
+**OWASP Top 10 on LLMs**
+Speaker: Mr Wong Onn Chee, OWASP SG Chapter Co-Leads & AiSP Data & Privacy SIG EXCO Lead
+
+Please RSVP your attendance at [Eventbrite page](https://www.eventbrite.sg/e/aisp-ai-sig-meetup-tickets-1076265552239?aff=oddtdtcreator ) by 14 January 2024 7pm SGT.
+
 
 
 # Past Meetups
