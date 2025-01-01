@@ -23,13 +23,6 @@ Slides](https://docs.google.com/a/owasp.org/presentation/d/10wi1EWFCPZwCpkB6qZaB
 is a professional association of global members and is open to anyone interested in learning more about software security. Local chapters are
 run independently and guided by the [Chapter_Policy](https://owasp.org/www-policy/operational/chapters). To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](https://owasp.org/www-policy/legal/speaker-agreement) and then contact the local chapter leader with details of what OWASP PROJECT, independent research or related software security topic you would like to present on.
 
-## OWASP AppSec Days Singapore 2024
-Join us for the [2024 OWASP AppSec Days Singapore](https://singapore.appsecdays.org/) at Marina Bay Sands hotel. Designed for private and public sector infosec professionals, OWASP conference equips developers, defenders, and advocates to build a more secure web. We are offering three educational **1-day training courses on 01-October that requires a separate ticket purchase followed by the conference and exhibition on 02-October. Join us for leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Conference. With amazing speakers and networking opportunities, this is an event you will not want to miss.
-
-The Call for Presentations is available [here](https://owasp.submittable.com/submit/297803/owasp-2024-appsec-days-singapore) and the Call for Trainers is available [here](https://owasp.submittable.com/submit/298300/2024-owasp-appsec-days-singapore-cft).
-
-For interested exhibitors or sponsors, please submit your interest [here](https://owasp.wufoo.com/forms/2024-appsec-days-singapore-exhibit-interest/) to download the sponsorship prospectus.
-
 # Upcoming Meetup
 
 We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetup.com/singapore-owasp-meetup-group/)
@@ -43,6 +36,8 @@ Our meetings are open to the public, and you do not need to be a member to atten
 **Date**: 15 January 2025 630pm to 830pm
 
 **Venue**: 6 Raffles Boulevard, JustCo, Marina Square, #03-308, Singapore 039594
+
+![AISP_15Jan2025_logo](assets/AISP_15Jan2025.png)
 
 The evening will kick off with a thought-provoking presentations by our line up of speakers, setting the stage for an intellectual journey into the heart of AI vulnerabilities and defenses. Attendees will gain insights into the latest adversarial attacks on AI models, delve into the nuances of privacy preservation in AI systems, and explore ethical considerations in AI development and deployment.
 
