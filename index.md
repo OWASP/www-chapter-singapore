@@ -37,7 +37,7 @@ Our meetings are open to the public, and you do not need to be a member to atten
 
 **Venue**: 6 Raffles Boulevard, JustCo, Marina Square, #03-308, Singapore 039594
 
-![AISP_15Jan2025_logo](assets/AISP_15Jan2025.png)
+![AISP_15Jan2025_logo](https://owasp.org/www-chapter-singapore/assets/images/AISP_15Jan2025.png)
 
 The evening will kick off with a thought-provoking presentations by our line up of speakers, setting the stage for an intellectual journey into the heart of AI vulnerabilities and defenses. Attendees will gain insights into the latest adversarial attacks on AI models, delve into the nuances of privacy preservation in AI systems, and explore ethical considerations in AI development and deployment.
 
