@@ -30,7 +30,12 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### 2025
+Coming soon!
 
+
+# Past Meetups
+
+### 2025
 ### Jan 2025 Joint Meetup with AISP AI SIG: Safeguarding the Future of Artificial Intelligence
 
 **Date**: 15 January 2025 630pm to 830pm
@@ -57,9 +62,7 @@ Speaker: Mr Wong Onn Chee, OWASP SG Chapter Co-Leads & AiSP Data & Privacy SIG E
 
 Please RSVP your attendance at [Eventbrite page](https://www.eventbrite.sg/e/aisp-ai-sig-meetup-tickets-1076265552239?aff=oddtdtcreator ) by 14 January 2024 7pm SGT.
 
-
-
-# Past Meetups
+Presos can be downloaded from [here](https://owasp.org/www-chapter-singapore/assets/presos/AISP_AI_SIG-OWASP_Meetup_Slides_for_15Jan2025.pdf) 
 
 ### 2024
 
