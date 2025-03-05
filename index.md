@@ -30,7 +30,22 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
 ### 2025
-Coming soon!
+### Mar 2025 OWASP Meetup: Securing AI Deployment: Overcoming Challenges in Security and Delivery for Enterprises
+
+**Date**: 18 March 2025 6pm to 830pm
+
+**Venue**: F5 Networks Singapore Pte Ltd, 5 Temasek Boulevard, \#08-01\/02, Suntec Tower Five, Singapore 038985
+
+This session will focus on addressing the key deployment and security challenges faced by enterprises when integrating AI technologies. We will explore strategies to optimize training data throughput, simplify inference data management, and ensure robust security to protect AI models and sensitive data. Join us to learn how to unlock the potential of AI while safeguarding your organization's assets.
+
+Many thanks to F5 Singapore for sponsoring the venue and food! Come early, enjoy free food and inter-mingle with OWASP enthusiasts.
+
+**Speaker**: CHAN Foo-Bang
+
+Foo-Bang has 24+ years of experience in the IT industry ranging from application security, modern applications architecture, devsecops, gitops and automation. He is passionate with emerging technologies such as cloud native architecture, AI, 5G SBA, service meshes, security and technologies that solve real world challenges and bring value to business.
+
+Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/306550441/) by 17 March 2025 6pm SGT.
+
 
 
 # Past Meetups
