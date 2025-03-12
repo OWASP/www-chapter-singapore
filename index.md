@@ -40,6 +40,11 @@ This session will focus on addressing the key deployment and security challenges
 
 Many thanks to F5 Singapore for sponsoring the venue and food! Come early, enjoy free food and inter-mingle with OWASP enthusiasts.
 
+**Speaker**: Aubrey King
+
+Aubrey King is PR Lead for the OWASP Top 10 for Large Language Model Applications project, Community Evangelist at F5 DevCentral and Host of ‘AI Friday’, ‘AppSec Now’ and ‘GenAI Security’ podcasts. With a solid operations foundation in System Architecture and Security, followed by 12 years as an F5 pre-sales engineer, Aubrey has built a reputation for his technical expertise in high availability and application security solutions across various market segments including Commercial, Public, and Service Provider sectors. His insights into AI security are rooted in practical experience, making his perspective both valuable and unique. Outside of the tech sphere, Aubrey is a passionate musician, devoted comic book enthusiast and proud father.
+
+
 **Speaker**: CHAN Foo-Bang
 
 Foo-Bang has 24+ years of experience in the IT industry ranging from application security, modern applications architecture, devsecops, gitops and automation. He is passionate with emerging technologies such as cloud native architecture, AI, 5G SBA, service meshes, security and technologies that solve real world challenges and bring value to business.
