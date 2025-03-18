@@ -51,6 +51,8 @@ Foo-Bang has 24+ years of experience in the IT industry ranging from application
 
 Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/306550441/) by 17 March 2025 6pm SGT.
 
+For those who can't register because the seats are full, you can join us [online](https://events.teams.microsoft.com/event/1e19a25f-4d78-4af4-8fea-76209b7c0f38@dd3dfd2f-6a3b-40d1-9be0-bf8327d81c50). 
+
 
 
 # Past Meetups
