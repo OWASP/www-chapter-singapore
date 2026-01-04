@@ -29,6 +29,52 @@ We schedule our meetings on the [OWASP Singapore Meetup Group](https://www.meetu
 
 Our meetings are open to the public, and you do not need to be a member to attend. Please do consider [joining OWASP](https://owasp.org/membership/) if you find our community, projects, and meetings valuable, or sponsoring this chapter.
 
+### 2026
+### [FREE] Online Mini API Security Hands-On Workshop
+
+**Date**: 29 January 2026 8pm onwards
+**Mode**: Online
+**Access**: Workshop links will be shared with registered participants via OWASP Singapore meetup.com
+
+OWASP Singapore Chapter, together with Practical DevSecOps, is hosting a free **Mini API Security Hands-On Workshop** focused on real world API security testing and defense.
+
+This is a **90-minute live, hands-on workshop** designed for developers, security engineers, and anyone interested in understanding how API vulnerabilities are discovered and mitigated in practice.
+
+***Workshop Overview***
+
+This session is entirely hands-on. There are **no slides**. Learning happens through whiteboard explanations, live demonstrations, and guided exercises in a controlled lab environment that participants can practice along with.
+
+The workshop provides practical exposure to API security from both an attacker and defender perspective, using industry standard tools and realistic scenarios.
+
+***What you will learn***
+
+- Work directly with APIs to understand common security flaws and defenses 
+- API authentication mechanisms including HTTP Basic, API Keys, OAuth, and JWT
+- Enumeration and exploitation techniques using tools such as FFUF
+- Exploitation of critical API vulnerabilities including insecure deserialization and path traversal.
+- Defensive techniques using automated scanning tools
+- Implementing security controls such as rate limiting
+
+The session concludes with a focus on **defensive API security**, helping participants understand how to identify issues early and apply effective protections.
+
+***Hands-On Lab Environment***
+
+All exercises are conducted in a dedicated Practical DevSecOps lab environment that runs entirely in the browser. It works smoothly on laptops, notebooks, and even iPads, with no **additional software required**.
+
+***Who should attend***
+
+- Developers building or consuming APIs
+- Security engineers and penetration testers
+- DevSecOps practitioners
+- Anyone looking to gain practical API security skills
+
+Participants will leave the workshop with **actionable, hands-on experience** and skills they can immediately apply to secure APIs in real world environments.
+
+Please RSVP your participation at [OWASP SG meetup page](https://www.meetup.com/singapore-owasp-meetup-group/events/312697424/) by 28 January 2026 8pm SGT.
+
+
+
+# Past Meetups
 ### 2025
 ### Mar 2025 OWASP Meetup: Securing AI Deployment: Overcoming Challenges in Security and Delivery for Enterprises
 
@@ -54,10 +100,6 @@ Please RSVP your attendance at [OWASP SG meetup page](https://www.meetup.com/sin
 For those who can't register because the seats are full, you can join us [online](https://events.teams.microsoft.com/event/1e19a25f-4d78-4af4-8fea-76209b7c0f38@dd3dfd2f-6a3b-40d1-9be0-bf8327d81c50). 
 
 
-
-# Past Meetups
-
-### 2025
 ### Jan 2025 Joint Meetup with AISP AI SIG: Safeguarding the Future of Artificial Intelligence
 
 **Date**: 15 January 2025 630pm to 830pm
