@@ -117,7 +117,7 @@ The event will culminate in an interactive Q&A session, encouraging attendees to
 
 **Synopsis**:
 
-In the rapidly evolving landscape of artificial intelligence, where Large Language Models (LLMs) and advanced AI systems are reshaping our digital world, the need for robust security measures has never been more critical. The Association of Information Security Professionals (AiSP) and the Open Web Application Security Project (OWASP) proudly present "Safeguarding the Future of Artificial Intelligence" an enlightening evening session that bridges the gap between AI innovation and cybersecurity. This event embodies the shared values of AiSP and OWASP – fostering knowledge sharing, promoting best practices, and nurturing a vibrant community of security-conscious professionals.
+In the rapidly evolving landscape of artificial intelligence, where Large Language Models (LLMs) and advanced AI systems are reshaping our digital world, the need for robust security measures has never been more critical. The Association of Information Security Professionals (AiSP) and the Open Worldwide Application Security Project (OWASP) proudly present "Safeguarding the Future of Artificial Intelligence" an enlightening evening session that bridges the gap between AI innovation and cybersecurity. This event embodies the shared values of AiSP and OWASP – fostering knowledge sharing, promoting best practices, and nurturing a vibrant community of security-conscious professionals.
 
 **Securing AI systems: An overview and the lifecycle approach**
 
