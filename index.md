@@ -33,8 +33,11 @@ Our meetings are open to the public, and you do not need to be a member to atten
 ### [FREE] Online Mini API Security Hands-On Workshop
 
 **Date**: 29 January 2026 8pm onwards
+
 **Mode**: Online
+
 **Access**: Workshop links will be shared with registered participants via OWASP Singapore meetup.com
+
 
 OWASP Singapore Chapter, together with Practical DevSecOps, is hosting a free **Mini API Security Hands-On Workshop** focused on real world API security testing and defense.
 
