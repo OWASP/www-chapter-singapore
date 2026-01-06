@@ -1,0 +1,29 @@
+community:
+  - name: chapter-singapore
+    platform: slack
+    url: https://owasp.slack.com/archives/C1R6PM1LH
+    description: A channel for Singaporean based OWASP members to connect, organise events and discuss security
+leaders:
+  - name: Wong Onn Chee
+    email: ocwong@owasp.org
+    github: ocwong
+  - name: Cecil Su
+    email: cecil.su@owasp.org
+location:
+  country: Singapore
+  country_code: SG
+  region: Central Region
+  city: Singapore
+  latitude: 1.2899175
+  longitude: 103.8519072
+meetup_group: singapore-owasp-meetup-group
+name: OWASP Singapore
+repositories:
+  - name: www-chapter-singapore
+    url: https://github.com/OWASP/www-chapter-singapore
+    description: OWASP Foundation Web Repository
+tags:
+  - custom-tag-1
+  - custom-tag-2
+  - custom-tag-3
+website: https://owasp.org/www-chapter-singapore
